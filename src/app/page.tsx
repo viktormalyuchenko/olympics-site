@@ -274,7 +274,7 @@ export async function generateMetadata({
       type: "website",
       images: [
         {
-          url: "/og-image.jpg", // Убедитесь, что этот файл лежит в public/
+          url: "/og-image.png", // Убедитесь, что этот файл лежит в public/
           width: 1200,
           height: 630,
           alt: `Расписание Олимпиады 2026 — ${formattedDate}`,
