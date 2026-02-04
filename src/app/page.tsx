@@ -6,6 +6,7 @@ import { MedalTable } from "@/components/MedalTable";
 import { Tv, Search, Filter } from "lucide-react";
 import Link from "next/link";
 import { Metadata } from "next";
+import { AINWidget } from "@/components/AINWidget";
 
 interface PageProps {
   searchParams: Promise<{
@@ -176,6 +177,7 @@ export default async function Home({ searchParams }: PageProps) {
               </a>
             </div>
           </div>
+          <AINWidget />
 
           {/* Инфо-карточка */}
           <div className="bg-card border border-border rounded-[2.5rem] p-8">

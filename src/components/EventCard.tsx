@@ -17,7 +17,7 @@ export function EventCard({ event }: { event: any }) {
     >
       {/* Метка Медалей */}
       {event.isMedal && (
-        <div className="absolute top-0 right-10 transform -translate-y-1/2 bg-amber-500 text-white px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-widest shadow-lg shadow-amber-500/40">
+        <div className="absolute top-2 right-10 z-20 bg-amber-500 text-white px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-widest shadow-lg shadow-amber-500/40">
           ФИНАЛ 🥇
         </div>
       )}

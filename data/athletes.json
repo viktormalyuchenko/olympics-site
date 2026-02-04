@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "adeliia-petrosian",
+    "name": "Аделия Петросян",
+    "sport": "Фигурное катание",
+    "bio": "Главная фаворитка женского одиночного катания. Первая в мире исполнительница сложнейших четверных прыжков в одной программе.",
+    "tags": ["Figure Skating", "Women Single Skating"],
+    "image": "/athletes/petrosian.jpg"
+  },
+  {
+    "slug": "saveliy-korostelev",
+    "name": "Савелий Коростелев",
+    "sport": "Лыжные гонки",
+    "bio": "Восходящая звезда лыжных гонок. Специализируется на спринте и дистанционных гонках классическим стилем.",
+    "tags": ["Cross-Country Skiing", "Sprint", "Classic"],
+    "image": "/athletes/korostelev.jpg"
+  },
+  {
+    "slug": "petr-gumennik",
+    "name": "Петр Гуменник",
+    "sport": "Фигурное катание",
+    "bio": "Один из самых техничных фигуристов-одиночников, сочетающий в программах сложнейшие прыжки и артистизм.",
+    "tags": ["Figure Skating", "Men Single Skating"],
+    "image": "/athletes/gumennik.jpg"
+  },
+  {
+    "slug": "eduard-latypov",
+    "name": "Эдуард Латыпов",
+    "sport": "Биатлон",
+    "bio": "Лидер мужской биатлонной команды. Многократный призер чемпионатов мира, обладающий мощным финишным рывком.",
+    "tags": ["Biathlon", "Men 10km Sprint", "Men 12.5km Pursuit"],
+    "image": "/athletes/latypov.jpg"
+  },
+  {
+    "slug": "elizaveta-pantrina",
+    "name": "Елизавета Пантрина",
+    "sport": "Лыжные гонки",
+    "bio": "Универсальная лыжница, способная бороться за медали как в личных гонках, так и в командных спринтах.",
+    "tags": ["Cross-Country Skiing", "Women"],
+    "image": "/athletes/pantrina.jpg"
+  },
+  {
+    "slug": "nataliia-shevchenko",
+    "name": "Наталия Шевченко",
+    "sport": "Биатлон",
+    "bio": "Бывшая лыжница, ставшая открытием в биатлоне. Показывает феноменальную скорость на лыжне.",
+    "tags": ["Biathlon", "Women"],
+    "image": "/athletes/shevchenko.jpg"
+  },
+  {
+    "slug": "viktor-mushtakov",
+    "name": "Виктор Муштаков",
+    "sport": "Конькобежный спорт",
+    "bio": "Специалист на коротких дистанциях. Один из самых быстрых спринтеров планеты на дистанции 500 метров.",
+    "tags": ["Speed Skating", "Men 500m"],
+    "image": "/athletes/mushtakov.jpg"
+  },
+  {
+    "slug": "semen-elistratov",
+    "name": "Семен Елистратов",
+    "sport": "Шорт-трек",
+    "bio": "Опытный ветеран команды, олимпийский чемпион, мастер тактической борьбы на дистанции 1500 метров.",
+    "tags": ["Short Track", "Men 1500m"],
+    "image": "/athletes/elistratov.jpg"
+  },
+  {
+    "slug": "anastasia-faleeva",
+    "name": "Анастасия Фалеева",
+    "sport": "Лыжные гонки",
+    "bio": "Лучший спринтер женской команды, обладающая взрывной скоростью и отличной техникой.",
+    "tags": ["Cross-Country Skiing", "Women Sprint"],
+    "image": "/athletes/faleeva.jpg"
+  },
+  {
+    "slug": "daniil-serokhvostov",
+    "name": "Даниил Серохвостов",
+    "sport": "Биатлон",
+    "bio": "Самый быстрый биатлонист нового поколения, известный своей агрессивной тактикой прохождения трассы.",
+    "tags": ["Biathlon", "Men"],
+    "image": "/athletes/serokhvostov.jpg"
+  },
+  {
+    "slug": "ekaterina-efremenkova",
+    "name": "Екатерина Ефременкова",
+    "sport": "Шорт-трек",
+    "bio": "Лидер женской команды по шорт-треку, многократный призер чемпионатов Европы на стайерских дистанциях.",
+    "tags": ["Short Track", "Women"],
+    "image": "/athletes/efremenkova.jpg"
+  },
+  {
+    "slug": "stepan-fedorov",
+    "name": "Степан Федоров",
+    "sport": "Санный спорт",
+    "bio": "Один из сильнейших саночников мира, специализирующийся на одноместных санях.",
+    "tags": ["Luge", "Men Singles"],
+    "image": "/athletes/fedorov.jpg"
+  },
+  {
+    "slug": "ruslan-murashov",
+    "name": "Руслан Мурашов",
+    "sport": "Конькобежный спорт",
+    "bio": "Рекордсмен и чемпион мира, главная надежда в спринте на коньках.",
+    "tags": ["Speed Skating", "Men 500m"],
+    "image": "/athletes/murashov.jpg"
+  }
+]
