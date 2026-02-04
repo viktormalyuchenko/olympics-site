@@ -24,8 +24,9 @@ export function EventCard({ event }: { event: any }) {
 
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Время начала */}
-        <div className="flex lg:flex-col items-center lg:items-start gap-4 min-w-25 lg:border-r border-border/50 pr-6">
+        <div className="flex lg:flex-col items-center lg:items-start gap-4 min-w-[100px] lg:border-r border-border/50 pr-6">
           <div className="text-4xl font-black tracking-tighter italic text-foreground leading-none">
+            {/* Местное время пользователя */}
             <LocalTime isoDate={event.start} />
           </div>
           <div className="flex flex-col">
@@ -33,7 +34,7 @@ export function EventCard({ event }: { event: any }) {
               Ваше время
             </span>
             <span className="text-[9px] text-muted-foreground font-bold uppercase">
-              Италия: <LocalTime isoDate={event.start} />
+              Италия: <LocalTime isoDate={event.start} timeZone="Europe/Rome" />
             </span>
           </div>
         </div>
