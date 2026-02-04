@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
   // Исправление ошибки: указываем базовый URL для OG-картинок
@@ -23,8 +25,9 @@ export default function RootLayout({
     <html lang="ru" suppressHydrationWarning>
       <body>
         <ThemeProvider attribute="class" defaultTheme="light">
-          {children}
-
+          <Header />
+          <main className="min-h-screen">{children}</main>
+          <Footer />
           {/* Яндекс.Метрика */}
           <Script id="yandex-metrika" strategy="afterInteractive">
             {`

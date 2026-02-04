@@ -24,18 +24,26 @@ export function EventCard({ event }: { event: any }) {
 
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Время начала */}
-        <div className="flex lg:flex-col items-center lg:items-start gap-4 min-w-[100px] lg:border-r border-border/50 pr-6">
-          <div className="text-4xl font-black tracking-tighter italic text-foreground leading-none">
-            {/* Местное время пользователя */}
-            <LocalTime isoDate={event.start} />
-          </div>
-          <div className="flex flex-col">
-            <span className="text-[10px] font-black text-primary uppercase tracking-[0.2em]">
+        <div className="flex flex-row lg:flex-col items-center lg:items-start gap-4 min-w-[110px] lg:border-r border-border/50 pr-6">
+          {/* Основное время (Местное пользователя) */}
+          <div className="space-y-1">
+            <div className="text-4xl font-black tracking-tighter italic text-foreground leading-none">
+              <LocalTime isoDate={event.start} />
+            </div>
+            <div className="text-[10px] font-black text-primary uppercase tracking-[0.2em] leading-none">
               Ваше время
-            </span>
-            <span className="text-[9px] text-muted-foreground font-bold uppercase">
-              Италия: <LocalTime isoDate={event.start} timeZone="Europe/Rome" />
-            </span>
+            </div>
+          </div>
+
+          {/* Время в Италии (Разделим небольшой чертой на десктопе) */}
+          <div className="lg:mt-2 lg:pt-2 lg:border-t lg:border-border/50 w-full">
+            <div className="text-[10px] text-muted-foreground font-bold uppercase tracking-tight flex items-center gap-1.5 whitespace-nowrap">
+              <span className="opacity-50 text-[8px]">🇮🇹</span>
+              Италия:{" "}
+              <span className="text-foreground/80">
+                <LocalTime isoDate={event.start} timeZone="Europe/Rome" />
+              </span>
+            </div>
           </div>
         </div>
 
