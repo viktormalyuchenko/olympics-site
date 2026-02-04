@@ -9,7 +9,7 @@ export function EventCard({ event }: { event: any }) {
 
   return (
     <div
-      className={`group relative overflow-hidden rounded-[2rem] border p-6 transition-all bg-card hover:shadow-2xl hover:border-primary/30 ${
+      className={`group relative overflow-hidden rounded-4xl border p-6 transition-all bg-card hover:shadow-2xl hover:border-primary/30 ${
         event.isMedal
           ? "ring-2 ring-amber-500/20 border-amber-500/30 bg-amber-50/5"
           : "border-border"
@@ -24,7 +24,7 @@ export function EventCard({ event }: { event: any }) {
 
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Время начала */}
-        <div className="flex lg:flex-col items-center lg:items-start gap-4 min-w-[100px] lg:border-r border-border/50 pr-6">
+        <div className="flex lg:flex-col items-center lg:items-start gap-4 min-w-25 lg:border-r border-border/50 pr-6">
           <div className="text-4xl font-black tracking-tighter italic text-foreground leading-none">
             <LocalTime isoDate={event.start} />
           </div>

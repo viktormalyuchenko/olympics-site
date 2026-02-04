@@ -199,35 +199,70 @@ export default async function Home({ searchParams }: PageProps) {
   );
 }
 
+interface PageProps {
+  searchParams: Promise<{
+    date?: string;
+    sport?: string;
+    gender?: string;
+  }>;
+}
+
 export async function generateMetadata({
   searchParams,
 }: PageProps): Promise<Metadata> {
   const params = await searchParams;
   const { date, sport, gender } = params;
 
-  // Форматируем дату для заголовка
-  const day = date ? new Date(date).getDate() : 5; // По умолчанию 5, если дата не выбрана
-  const formattedDate = `${day} февраля`;
+  // 1. Форматируем дату для заголовка
+  // Если дата не выбрана, используем 6 февраля (день открытия)
+  const eventDate = date ? new Date(date) : new Date("2026-02-06");
+  const day = eventDate.getDate();
+  const month = eventDate.toLocaleDateString("ru-RU", { month: "long" });
+  const formattedDate = `${day} ${month}`;
 
-  // Логика формирования Title
-  let title = "Расписание Олимпиады 2026 — Милан-Кортина";
-  if (sport) {
-    title = `${sport} на Олимпиаде 2026 — Расписание на ${formattedDate}`;
-  } else {
-    title = `Олимпиада 2026: Расписание соревнований на ${formattedDate}`;
-  }
+  // 2. Определяем текстовые переменные для SEO
+  const sportName = sport ? `${sport} ` : "";
+  const genderName =
+    gender === "men" ? "мужчины " : gender === "women" ? "женщины " : "";
 
-  // Логика формирования Description
-  const genderText =
-    gender === "men" ? "мужчин" : gender === "women" ? "женщин" : "";
-  const description = `Следите за зимней Олимпиадой 2026 в Италии. ${sport || "Все виды спорта"} ${genderText}, расписание на ${formattedDate}, прямые трансляции, медальный зачет и результаты матчей в реальном времени.`;
+  // 3. Формируем Title (до 60-70 символов)
+  // Примеры:
+  // "Биатлон: Расписание Олимпиады 2026 на 8 февраля — Милан-Кортина"
+  // "Олимпиада 2026: Расписание соревнований на 6 февраля — Милан"
+  const title = sport
+    ? `${sport}: ${genderName}расписание Олимпиады 2026 на ${formattedDate}`
+    : `Олимпиада 2026: Расписание соревнований на ${formattedDate} — Милан`;
+
+  // 4. Формируем Description (до 150-160 символов)
+  // Здесь мы вставляем максимум ключевых слов: трансляция, онлайн, медали, результаты
+  const description = `Следите за зимними Олимпийскими играми 2026 в Италии. ${sportName}${genderName}на ${formattedDate}: полное расписание, прямые трансляции Okko, результаты и медальный зачет в реальном времени.`;
+
+  // 5. Ключевые слова (Yandex все еще на них смотрит)
+  const keywords = [
+    "Олимпиада 2026",
+    "Милан Кортина 2026",
+    "зимние олимпийские игры",
+    "расписание олимпиады",
+    "смотреть онлайн",
+    "прямая трансляция",
+    "медальный зачет",
+    "результаты",
+    sport,
+    "нейтральные атлеты",
+    "AIN",
+  ].filter(Boolean) as string[];
 
   return {
     title,
     description,
+    keywords,
+    // Ссылки на каноническую страницу (чтобы избежать дублей из-за параметров)
     alternates: {
-      canonical: `https://olympics.viktoor.ru/${sport ? `?sport=${encodeURIComponent(sport)}` : ""}`,
+      canonical: sport
+        ? `https://olympics.viktoor.ru/?sport=${encodeURIComponent(sport)}`
+        : "https://olympics.viktoor.ru",
     },
+    // Настройки для соцсетей (OpenGraph)
     openGraph: {
       title,
       description,
@@ -237,11 +272,19 @@ export async function generateMetadata({
       type: "website",
       images: [
         {
-          url: "/og-image.png", // Создайте простую картинку 1200x630
+          url: "/og-image.jpg", // Убедитесь, что этот файл лежит в public/
           width: 1200,
           height: 630,
+          alt: `Расписание Олимпиады 2026 — ${formattedDate}`,
         },
       ],
+    },
+    // Настройки для Twitter (X)
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["/og-image.jpg"],
     },
   };
 }

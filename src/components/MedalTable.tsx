@@ -6,7 +6,7 @@ async function getMedals() {
   const SHEET_URL =
     "https://docs.google.com/spreadsheets/d/e/2PACX-1vSoEqfxW6K6SVTFyQhHnFzu52QMwHsvKY9WkVye65GUPAqwwJeQYn-W-AyiU7iI4oIK_7Hmv3Nkvgd3/pub?output=csv";
   try {
-    const response = await fetch(SHEET_URL, { next: { revalidate: 10 } });
+    const response = await fetch(SHEET_URL, { next: { revalidate: 60 } });
     const csvText = await response.text();
     const lines = csvText.split("\n");
 
