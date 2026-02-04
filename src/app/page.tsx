@@ -54,7 +54,7 @@ export default async function Home({ searchParams }: PageProps) {
         <div className="flex items-center gap-4 overflow-x-auto pb-2 no-scrollbar">
           <Link
             href={`/?date=${selectedDate}${gender ? `&gender=${gender}` : ""}`}
-            className={`flex-shrink-0 px-5 py-2.5 rounded-2xl text-[10px] font-black uppercase tracking-widest border transition-all ${
+            className={`shrink-0 px-5 py-2.5 rounded-2xl text-[10px] font-black uppercase tracking-widest border transition-all ${
               !sport
                 ? "bg-primary text-white border-primary shadow-lg shadow-primary/20"
                 : "bg-card border-border hover:border-primary/40"
@@ -66,7 +66,7 @@ export default async function Home({ searchParams }: PageProps) {
             <Link
               key={s}
               href={`/?sport=${encodeURIComponent(s)}&date=${selectedDate}${gender ? `&gender=${gender}` : ""}`}
-              className={`flex-shrink-0 px-5 py-2.5 rounded-2xl text-[10px] font-black uppercase tracking-widest border transition-all ${
+              className={`shrink-0 px-5 py-2.5 rounded-2xl text-[10px] font-black uppercase tracking-widest border transition-all ${
                 sport === s
                   ? "bg-primary text-white border-primary shadow-lg shadow-primary/20"
                   : "bg-card border-border hover:border-primary/40"

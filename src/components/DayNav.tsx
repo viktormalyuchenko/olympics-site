@@ -15,12 +15,13 @@ export function DayNav({
   currentGender,
 }: DayNavProps) {
   return (
-    <div className="flex gap-2 overflow-x-auto pb-4 no-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
+    // Добавляем py-4 (отступы сверху и снизу), чтобы scale-105 не резался
+    <div className="flex gap-2 overflow-x-auto py-4 no-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
       {dates.map((date) => {
         const d = new Date(date);
         const isActive = selectedDate === date;
 
-        // Формируем URL с сохранением всех текущих фильтров
+        // Формируем параметры
         const params = new URLSearchParams();
         params.set("date", date);
         if (currentSport) params.set("sport", currentSport);
@@ -30,9 +31,10 @@ export function DayNav({
           <Link
             key={date}
             href={`/?${params.toString()}`}
-            className={`flex-shrink-0 w-16 h-20 flex flex-col items-center justify-center rounded-2xl border transition-all duration-300 ${
+            // Добавляем z-10 для активного элемента
+            className={`shrink-0 w-16 h-20 flex flex-col items-center justify-center rounded-2xl border transition-all duration-300 ${
               isActive
-                ? "bg-primary text-white border-primary shadow-xl shadow-primary/25 scale-105 z-10"
+                ? "bg-primary text-white border-primary shadow-xl shadow-primary/30 scale-105 z-10"
                 : "bg-card text-muted-foreground border-border hover:border-primary/50"
             }`}
           >
