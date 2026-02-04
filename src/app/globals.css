@@ -1,26 +1,73 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
+@theme {
+  /* Физические переменные темы */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-border: var(--border);
+
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: hsl(0 0% 100%);
+    --foreground: hsl(222 47% 11%);
+
+    --card: hsl(0 0% 100%);
+    --card-foreground: hsl(222 47% 11%);
+
+    --primary: hsl(221 83% 53%);
+    --primary-foreground: hsl(210 40% 98%);
+
+    --muted: hsl(210 40% 96%);
+    --muted-foreground: hsl(215 16% 47%);
+
+    --accent: hsl(210 40% 96%);
+    --accent-foreground: hsl(222 47% 11%);
+
+    --border: hsl(214 32% 91%);
+  }
+
+  .dark {
+    --background: hsl(222 47% 11%);
+    --foreground: hsl(210 40% 98%);
+
+    --card: hsl(222 47% 11%);
+    --card-foreground: hsl(210 40% 98%);
+
+    --primary: hsl(217 91% 60%);
+    --primary-foreground: hsl(222 47% 11%);
+
+    --muted: hsl(217 33% 17%);
+    --muted-foreground: hsl(215 20% 65%);
+
+    --accent: hsl(217 33% 17%);
+    --accent-foreground: hsl(210 40% 98%);
+
+    --border: hsl(217 33% 17%);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
 }

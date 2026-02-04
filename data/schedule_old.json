@@ -1,0 +1,3262 @@
+[
+  {
+    "id": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb-0",
+    "originalId": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇰🇷 KOR",
+    "start": "2026-02-04T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb-1",
+    "originalId": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇳🇴 NOR",
+    "start": "2026-02-04T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb-2",
+    "originalId": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇨🇿 CZE",
+    "start": "2026-02-04T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb-3",
+    "originalId": "CSVConvertc092dc6594bbad1b14c855d9021cc9bb",
+    "sport": "Другое",
+    "title": "EST 🇪🇪 vs 🇨🇭 SUI",
+    "start": "2026-02-04T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0-0",
+    "originalId": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇪🇪 EST",
+    "start": "2026-02-05T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0-1",
+    "originalId": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇨🇿 CZE",
+    "start": "2026-02-05T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0-2",
+    "originalId": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇺🇸 USA",
+    "start": "2026-02-05T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0-3",
+    "originalId": "CSVConvertd9a39f03cab7c0e36b0dbeaedde9e9d0",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇮🇹 ITA",
+    "start": "2026-02-05T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert38b347f40e6f4cfcfce32e7125bc8efc-0",
+    "originalId": "CSVConvert38b347f40e6f4cfcfce32e7125bc8efc",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇩🇪 GER",
+    "start": "2026-02-05T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertade2db3dff3e85efa492e4913e518b23-0",
+    "originalId": "CSVConvertade2db3dff3e85efa492e4913e518b23",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇭 SUI",
+    "start": "2026-02-05T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertade2db3dff3e85efa492e4913e518b23-1",
+    "originalId": "CSVConvertade2db3dff3e85efa492e4913e518b23",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇨🇦 CAN",
+    "start": "2026-02-05T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta4d50d8ecb668fa5a0dfb36b591a3c01-0",
+    "originalId": "CSVConverta4d50d8ecb668fa5a0dfb36b591a3c01",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇫🇷 FRA",
+    "start": "2026-02-05T13:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd8db07c1baf302f51f9aedd84ce578a9-0",
+    "originalId": "CSVConvertd8db07c1baf302f51f9aedd84ce578a9",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇿 CZE",
+    "start": "2026-02-05T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert033411d437479eb3c7e66dc3cff48002-0",
+    "originalId": "CSVConvert033411d437479eb3c7e66dc3cff48002",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇮🇹 ITA",
+    "start": "2026-02-05T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert033411d437479eb3c7e66dc3cff48002-1",
+    "originalId": "CSVConvert033411d437479eb3c7e66dc3cff48002",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇰🇷 KOR",
+    "start": "2026-02-05T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert033411d437479eb3c7e66dc3cff48002-2",
+    "originalId": "CSVConvert033411d437479eb3c7e66dc3cff48002",
+    "sport": "Другое",
+    "title": "EST 🇪🇪 vs 🇸🇪 SWE",
+    "start": "2026-02-05T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert033411d437479eb3c7e66dc3cff48002-3",
+    "originalId": "CSVConvert033411d437479eb3c7e66dc3cff48002",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇬🇧 GBR",
+    "start": "2026-02-05T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4f77405cf593c18d410c47a68c60fe4c",
+    "sport": "Другое",
+    "title": "Snowboarding – Men’s Big Air – Qualification",
+    "start": "2026-02-05T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert618ffdcd37709e58b70dc620bd48bd7a-0",
+    "originalId": "CSVConvert618ffdcd37709e58b70dc620bd48bd7a",
+    "sport": "Другое",
+    "title": "FIN 🇫🇮 vs 🇨🇦 CAN",
+    "start": "2026-02-05T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7912169d91c4b99c109d457ec83eb6ac",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Ice Dance – RD",
+    "start": "2026-02-06T08:55:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4ac0ea85d6ef21bb062532967fac9709-0",
+    "originalId": "CSVConvert4ac0ea85d6ef21bb062532967fac9709",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇬🇧 GBR",
+    "start": "2026-02-06T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4ac0ea85d6ef21bb062532967fac9709-1",
+    "originalId": "CSVConvert4ac0ea85d6ef21bb062532967fac9709",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇭 SUI",
+    "start": "2026-02-06T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4ac0ea85d6ef21bb062532967fac9709-2",
+    "originalId": "CSVConvert4ac0ea85d6ef21bb062532967fac9709",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇦 CAN",
+    "start": "2026-02-06T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert28e8da0ab6d1d78d229faed327bb4c65",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Pair Skating – SP",
+    "start": "2026-02-06T10:35:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4736a978ffdcb43c1fa3e983eb5d5f69-0",
+    "originalId": "CSVConvert4736a978ffdcb43c1fa3e983eb5d5f69",
+    "sport": "Другое",
+    "title": "FRA 🇫🇷 vs 🇯🇵 JPN",
+    "start": "2026-02-06T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertfc3f17d1672971e4712cf0dcaa981376",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Women Single Skating – SP",
+    "start": "2026-02-06T12:35:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c-0",
+    "originalId": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇺🇸 USA",
+    "start": "2026-02-06T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c-1",
+    "originalId": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c",
+    "sport": "Другое",
+    "title": "EST 🇪🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-06T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c-2",
+    "originalId": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇬🇧 GBR",
+    "start": "2026-02-06T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c-3",
+    "originalId": "CSVConvert1d1091c601e3b12ca8ba2e01bb0bde0c",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇳🇴 NOR",
+    "start": "2026-02-06T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert04be052036cbf849c0f02df65104df1a-0",
+    "originalId": "CSVConvert04be052036cbf849c0f02df65104df1a",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇨🇭 SUI",
+    "start": "2026-02-06T13:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "v62onq7o3s0dj7hk5n723mr88s@google.com",
+    "sport": "Другое",
+    "title": "Opening Ceremony",
+    "start": "2026-02-06T18:00:00.000Z",
+    "location": "San Siro, Milan, Metropolitan City of Milan, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertab81340ce96ad5762e26ac525a124641-0",
+    "originalId": "CSVConvertab81340ce96ad5762e26ac525a124641",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇨🇦 CAN",
+    "start": "2026-02-07T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertab81340ce96ad5762e26ac525a124641-1",
+    "originalId": "CSVConvertab81340ce96ad5762e26ac525a124641",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇸🇪 SWE",
+    "start": "2026-02-07T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert55dce655139e165da1cb850aa49dd766",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Freeski Slopestyle Qualification",
+    "start": "2026-02-07T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertdd0e5927a86794fe5cd4d3bc9727c822",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Men’s Downhill",
+    "start": "2026-02-07T10:30:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertdb67dbd936ed25d3145fb890c8c7e622-0",
+    "originalId": "CSVConvertdb67dbd936ed25d3145fb890c8c7e622",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇯🇵 JPN",
+    "start": "2026-02-07T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7634715e390da77f2fc3cccefd566cfc",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s 10km + 10km Skiathlon",
+    "start": "2026-02-07T12:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertd16307f443a5b3d38dda926f193dfbe6",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Freeski Slopestyle Qualification",
+    "start": "2026-02-07T13:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e4289fc14d4be38c806289db653a1bc-0",
+    "originalId": "CSVConvert7e4289fc14d4be38c806289db653a1bc",
+    "sport": "Другое",
+    "title": "EST 🇪🇪 vs 🇳🇴 NOR",
+    "start": "2026-02-07T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e4289fc14d4be38c806289db653a1bc-1",
+    "originalId": "CSVConvert7e4289fc14d4be38c806289db653a1bc",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇰🇷 KOR",
+    "start": "2026-02-07T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e4289fc14d4be38c806289db653a1bc-2",
+    "originalId": "CSVConvert7e4289fc14d4be38c806289db653a1bc",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-07T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e4289fc14d4be38c806289db653a1bc-3",
+    "originalId": "CSVConvert7e4289fc14d4be38c806289db653a1bc",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇺🇸 USA",
+    "start": "2026-02-07T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta1735749b6f2a40b8c341a77e7460f7c-0",
+    "originalId": "CSVConverta1735749b6f2a40b8c341a77e7460f7c",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-07T13:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertaf4e75433ca45eed7bd45e3f18344f07",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Women’s 3000m",
+    "start": "2026-02-07T15:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert46fdcfc077620ccf7b022a404dd1a2bd-0",
+    "originalId": "CSVConvert46fdcfc077620ccf7b022a404dd1a2bd",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇫🇮 FIN",
+    "start": "2026-02-07T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8fda0013cafd80714dd168376a560712",
+    "sport": "Другое",
+    "title": "Luge – Men’s Singles",
+    "start": "2026-02-07T16:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf7df29110084f97ddfbceb5338d5b3ab",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Women’s Normal Hill Individual",
+    "start": "2026-02-07T17:45:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert4afd96665b3651eae39bd07d58309f0f-0",
+    "originalId": "CSVConvert4afd96665b3651eae39bd07d58309f0f",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇺🇸 USA",
+    "start": "2026-02-07T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4afd96665b3651eae39bd07d58309f0f-1",
+    "originalId": "CSVConvert4afd96665b3651eae39bd07d58309f0f",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇪🇪 EST",
+    "start": "2026-02-07T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4afd96665b3651eae39bd07d58309f0f-2",
+    "originalId": "CSVConvert4afd96665b3651eae39bd07d58309f0f",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇨🇭 SUI",
+    "start": "2026-02-07T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4afd96665b3651eae39bd07d58309f0f-3",
+    "originalId": "CSVConvert4afd96665b3651eae39bd07d58309f0f",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇮🇹 ITA",
+    "start": "2026-02-07T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert3bd365da34845df14c8d6682989cb5f5",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Men’s Big Air – Finals",
+    "start": "2026-02-07T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc0bc10dca3d17091dc5db9f25fe72116",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Men Single Skating – SP",
+    "start": "2026-02-07T18:45:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd28cd85651653bf3ff172348fa145eda-0",
+    "originalId": "CSVConvertd28cd85651653bf3ff172348fa145eda",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇦 CAN",
+    "start": "2026-02-07T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbce86a610e989c93a953628a2d95c42e",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Ice Dance – FD",
+    "start": "2026-02-07T21:05:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertfdc61bb8d7dc3422c22644799687ed56",
+    "sport": "Другое",
+    "title": "Snowboarding – Parallel Giant Slalom – Qualification",
+    "start": "2026-02-08T08:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert6821338fe6ce9b366cbff5b221ed5bb9-0",
+    "originalId": "CSVConvert6821338fe6ce9b366cbff5b221ed5bb9",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇨🇿 CZE",
+    "start": "2026-02-08T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert6821338fe6ce9b366cbff5b221ed5bb9-1",
+    "originalId": "CSVConvert6821338fe6ce9b366cbff5b221ed5bb9",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇪🇪 EST",
+    "start": "2026-02-08T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7d3b86b3593f807b90e44bd09d7f18e6",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Women’s Downhill",
+    "start": "2026-02-08T10:30:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1cb24cdb0542989842bb2c5d06ad3451",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s 10km + 10km Skiathlon",
+    "start": "2026-02-08T11:30:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert14f2517aec142b7fed4e3d99c77021ca",
+    "sport": "Другое",
+    "title": "Snowboarding – Parallel Giant Slalom – Playoffs",
+    "start": "2026-02-08T12:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertee830e2927f319a8da2ca32a83e3e090",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Mixed Relay 4x6km",
+    "start": "2026-02-08T13:05:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5ab715f37271e299c76a05196a364090",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Parallel Giant Slalom – Finals",
+    "start": "2026-02-08T13:25:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e-0",
+    "originalId": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇸🇪 SWE",
+    "start": "2026-02-08T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e-1",
+    "originalId": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇨🇭 SUI",
+    "start": "2026-02-08T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e-2",
+    "originalId": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇪🇪 EST",
+    "start": "2026-02-08T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e-3",
+    "originalId": "CSVConvertc666976f0027466ca53bf6a8ecb44f3e",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇿 CZE",
+    "start": "2026-02-08T13:35:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertcef2bfc8709a97fd870d68464285d6d6",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Men’s 5000m",
+    "start": "2026-02-08T15:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertb809766f11cdb8cd2f3d202e1f9cbf16-0",
+    "originalId": "CSVConvertb809766f11cdb8cd2f3d202e1f9cbf16",
+    "sport": "Другое",
+    "title": "FRA 🇫🇷 vs 🇸🇪 SWE",
+    "start": "2026-02-08T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert488a3d23c4bac899806c1c943fb07730",
+    "sport": "Другое",
+    "title": "Luge 🥇 – Men’s Singles",
+    "start": "2026-02-08T16:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert2e34b487a638a95ef39bc03108fe078b-0",
+    "originalId": "CSVConvert2e34b487a638a95ef39bc03108fe078b",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇬🇧 GBR",
+    "start": "2026-02-08T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2e34b487a638a95ef39bc03108fe078b-1",
+    "originalId": "CSVConvert2e34b487a638a95ef39bc03108fe078b",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇸🇪 SWE",
+    "start": "2026-02-08T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2e34b487a638a95ef39bc03108fe078b-2",
+    "originalId": "CSVConvert2e34b487a638a95ef39bc03108fe078b",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇳🇴 NOR",
+    "start": "2026-02-08T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2e34b487a638a95ef39bc03108fe078b-3",
+    "originalId": "CSVConvert2e34b487a638a95ef39bc03108fe078b",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇰🇷 KOR",
+    "start": "2026-02-08T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4b28ac55b32e0395b5d30f4c1598aae0",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Pair Skating – FS",
+    "start": "2026-02-08T18:30:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2bf414eaf3152eb3c6fd64fd0f4c9d6b",
+    "sport": "Другое",
+    "title": "Snowboarding – Women’s Big Air – Qualification",
+    "start": "2026-02-08T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert94f980fcba84a57be3eb74df53db1153",
+    "sport": "Другое",
+    "title": "Figure Skating – Team Event – Women Single Skating – FS",
+    "start": "2026-02-08T19:45:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2b030b18994a33dfd0f4514366e417fe-0",
+    "originalId": "CSVConvert2b030b18994a33dfd0f4514366e417fe",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇫🇮 FIN",
+    "start": "2026-02-08T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte63ab79bdc628be4b080d83fbb8a46cf",
+    "sport": "Другое",
+    "title": "Figure Skating 🥇 – Team Event – Men Single Skating – FS",
+    "start": "2026-02-08T20:55:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77-0",
+    "originalId": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇦 CAN",
+    "start": "2026-02-09T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77-1",
+    "originalId": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇺🇸 USA",
+    "start": "2026-02-09T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77-2",
+    "originalId": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇰🇷 KOR",
+    "start": "2026-02-09T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77-3",
+    "originalId": "CSVConvertaf4e7da70cede5ce78a465b8b49dbe77",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇪🇪 EST",
+    "start": "2026-02-09T09:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert25b4b2b83abb4e6ee8580bdd5d8e2600",
+    "sport": "Другое",
+    "title": "Alpine Skiing – Men’s Team Combined Downhill",
+    "start": "2026-02-09T09:30:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0440a86deea94688746b9cf550a851a8-0",
+    "originalId": "CSVConvert0440a86deea94688746b9cf550a851a8",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇮🇹 ITA",
+    "start": "2026-02-09T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd4bff6884fea11367656e4e33f364210",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Freeski Slopestyle Final",
+    "start": "2026-02-09T11:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert2684d5e2dd992721f7ba264564982b9b",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Men’s Team Combined Slalom",
+    "start": "2026-02-09T13:00:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert2c22e94808f918ce3fe1638f6b33d3dd-0",
+    "originalId": "CSVConvert2c22e94808f918ce3fe1638f6b33d3dd",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇫🇷 FRA",
+    "start": "2026-02-09T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1a787614d48b940e40f7ad76ad4238d4",
+    "sport": "Другое",
+    "title": "Luge – Women’s Singles",
+    "start": "2026-02-09T16:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb4509b7a1e9b971186828095f0454b01",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Women’s 1000m",
+    "start": "2026-02-09T16:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert735b15fd2b89bec059a0c33d2f40abd6",
+    "sport": "Другое",
+    "title": "Curling – MD / Semifinals",
+    "start": "2026-02-09T17:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert74eae47828c9f4cedd6f14164cffdd0a",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Men’s Normal Hill Individual",
+    "start": "2026-02-09T18:00:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc0f18d09bca99c938593deafb05d0b5a",
+    "sport": "Другое",
+    "title": "Figure Skating – Ice Dance – Rhythm Dance",
+    "start": "2026-02-09T18:20:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert352602b4f627d27a0bf76e31808aadc8",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Women’s Big Air – Finals",
+    "start": "2026-02-09T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert07f567f0e133edc1d7c172295ebbcdf9-0",
+    "originalId": "CSVConvert07f567f0e133edc1d7c172295ebbcdf9",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇺🇸 USA",
+    "start": "2026-02-09T19:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert33a8162634a2948c01abd15b7bbae1f9-0",
+    "originalId": "CSVConvert33a8162634a2948c01abd15b7bbae1f9",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇨🇿 CZE",
+    "start": "2026-02-09T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8d29bee47e08bb3b0de1fc544a01ee68",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Women’s Sprint Classic Qualification",
+    "start": "2026-02-10T08:15:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc783240d129540f0eb4baa48dd244258",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Men’s Sprint Classic Qualification",
+    "start": "2026-02-10T08:55:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert26fc51695dca27850bb76ebb4745c096",
+    "sport": "Другое",
+    "title": "Alpine Skiing – Women’s Team Combined Downhill",
+    "start": "2026-02-10T09:30:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertafdc7c9b41fffce986f20cbd7358ad7a",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 500m – Heats",
+    "start": "2026-02-10T09:30:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf0e3daecb3a3b13f3e1d94dbcba50c90",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 1000m – Heats",
+    "start": "2026-02-10T10:10:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2de46cda3ae4d1fd5c2e0a96ceb5effc",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Moguls Qualification",
+    "start": "2026-02-10T10:15:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert73bf9c340461b5c567a1b58e58762d5e",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Women’s Sprint Classic Quarterfinals",
+    "start": "2026-02-10T10:45:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc9bf405a01f738d9c5b618ab2f2e6607",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Mixed Team Relay Playoffs",
+    "start": "2026-02-10T10:50:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4ef8554b987d8dd303b8db793d5e256d-0",
+    "originalId": "CSVConvert4ef8554b987d8dd303b8db793d5e256d",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇸🇪 SWE",
+    "start": "2026-02-10T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb17301aa98b84730d4e4d15b84c0afda",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Men’s Sprint Classic Quarterfinals",
+    "start": "2026-02-10T11:15:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverte490a0a57d6767d5bedeaca651479d7f",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Freeski Slopestyle Final",
+    "start": "2026-02-10T11:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert760dafc86410f1d206728ce7917f1d04",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Mixed Team Relay – Final",
+    "start": "2026-02-10T11:45:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert7cea1533c558f490f72bb8bbcc0d5e75",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Women’s Sprint Classic Semifinals",
+    "start": "2026-02-10T11:45:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertf48f0b7639b8b99bf7eb946ba8170ebb",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Men’s Sprint Classic Semifinals",
+    "start": "2026-02-10T11:55:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert7aa1144d356e0377b6e7254bfdacd4b1",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s Sprint Classic Final",
+    "start": "2026-02-10T12:10:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert59c2956b5e0a6ed216cf7d65c600fc9c",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s Sprint Classic Final",
+    "start": "2026-02-10T12:25:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert3f6891304df332ddb112714da362eacd",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Men's 20km Individual",
+    "start": "2026-02-10T12:30:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertf154f72f4d4324cb0d2f6f1bb0561332",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Women’s Team Combined Slalom",
+    "start": "2026-02-10T13:00:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert03600b8e5573fe282e190afac54f600a",
+    "sport": "Другое",
+    "title": "Curling – MD 🥉 / Finals – Bronze",
+    "start": "2026-02-10T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1ff72874f14fe24185df4d893ce0b445",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Moguls Qualification",
+    "start": "2026-02-10T13:15:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert979fd05feeef02de46a9899346400c81-0",
+    "originalId": "CSVConvert979fd05feeef02de46a9899346400c81",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇩🇪 GER",
+    "start": "2026-02-10T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert15707135440b4437206f368e43ba26ab",
+    "sport": "Другое",
+    "title": "Luge 🥇 – Women’s Singles",
+    "start": "2026-02-10T16:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertccc2c2aef7d6a3b134e899cb6b09ff46",
+    "sport": "Другое",
+    "title": "Curling – MD 🥇 / Finals – Gold",
+    "start": "2026-02-10T17:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1f97c07a3211f8a0a56855f2d137de0a",
+    "sport": "Другое",
+    "title": "Figure Skating – Men Single Skating – Short Program",
+    "start": "2026-02-10T17:30:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9fe7cb03de47f64cb305b32fd6ce2eb7",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Mixed Team Normal Hill",
+    "start": "2026-02-10T17:45:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert44da7f205d60159faee7d6d29f2dd435-0",
+    "originalId": "CSVConvert44da7f205d60159faee7d6d29f2dd435",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇺🇸 USA",
+    "start": "2026-02-10T19:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert11f4a6121a2d019fe676645531491808-0",
+    "originalId": "CSVConvert11f4a6121a2d019fe676645531491808",
+    "sport": "Другое",
+    "title": "FIN 🇫🇮 vs 🇨🇭 SUI",
+    "start": "2026-02-10T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert793a5568c9de0a48b1338eef49f892c4",
+    "sport": "Другое",
+    "title": "Snowboarding – Women's Halfpipe – Qualification",
+    "start": "2026-02-11T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert3e85e322a7be30bf086f673ad4e7a73e",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Men’s Super-G",
+    "start": "2026-02-11T10:30:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc6a16df9bf4649612e18bd6d16d22e83",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Moguls Final",
+    "start": "2026-02-11T13:15:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertcc1b3be68fcffd28801b294ecfe2aacf",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Women's 15km Individual",
+    "start": "2026-02-11T13:15:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertbaf0a7f1e1795abf103ca70eb179e259-0",
+    "originalId": "CSVConvertbaf0a7f1e1795abf103ca70eb179e259",
+    "sport": "Другое",
+    "title": "SVK 🇸🇰 vs 🇫🇮 FIN",
+    "start": "2026-02-11T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7df7162aebbbd7b32dcb2001245a7116",
+    "sport": "Luge 🥇 – Doubles",
+    "title": "M&W",
+    "start": "2026-02-11T16:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertcbfa230354a1d37b849304c3a4a56916",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Men’s 1000m",
+    "start": "2026-02-11T17:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert408b42c1d984473163e7522c9c6cb0ac-0",
+    "originalId": "CSVConvert408b42c1d984473163e7522c9c6cb0ac",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-11T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert408b42c1d984473163e7522c9c6cb0ac-1",
+    "originalId": "CSVConvert408b42c1d984473163e7522c9c6cb0ac",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇩🇪 GER",
+    "start": "2026-02-11T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert408b42c1d984473163e7522c9c6cb0ac-2",
+    "originalId": "CSVConvert408b42c1d984473163e7522c9c6cb0ac",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇺🇸 USA",
+    "start": "2026-02-11T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert408b42c1d984473163e7522c9c6cb0ac-3",
+    "originalId": "CSVConvert408b42c1d984473163e7522c9c6cb0ac",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇬🇧 GBR",
+    "start": "2026-02-11T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1d96db0d49fb4a8e4e2bff8bef0efbfd",
+    "sport": "Другое",
+    "title": "Figure Skating 🥇 – Ice Dance – Free Dance",
+    "start": "2026-02-11T18:30:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert7ae54be64a1f1c1646fe61e5589c50d3-0",
+    "originalId": "CSVConvert7ae54be64a1f1c1646fe61e5589c50d3",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-11T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd86fda8a6a16f884a14181dce89fe46f-0",
+    "originalId": "CSVConvertd86fda8a6a16f884a14181dce89fe46f",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇺🇸 USA",
+    "start": "2026-02-12T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd86fda8a6a16f884a14181dce89fe46f-1",
+    "originalId": "CSVConvertd86fda8a6a16f884a14181dce89fe46f",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇸🇪 SWE",
+    "start": "2026-02-12T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd86fda8a6a16f884a14181dce89fe46f-2",
+    "originalId": "CSVConvertd86fda8a6a16f884a14181dce89fe46f",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇭 SUI",
+    "start": "2026-02-12T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd86fda8a6a16f884a14181dce89fe46f-3",
+    "originalId": "CSVConvertd86fda8a6a16f884a14181dce89fe46f",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇩🇰 DEN",
+    "start": "2026-02-12T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf7d2f3f27c792190f1274bdd4314b269",
+    "sport": "Другое",
+    "title": "Skeleton – Men",
+    "start": "2026-02-12T08:30:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb779c0291d3b71fb62f611c159484bf3",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Moguls Qualification",
+    "start": "2026-02-12T09:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertff3aeee927da555f859ed7b8edd489fe",
+    "sport": "Другое",
+    "title": "Snowboarding – Men's Snowboard Cross – Seeding",
+    "start": "2026-02-12T09:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbabe22b233bbc784b532d68432b78e0b",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Women’s Super-G",
+    "start": "2026-02-12T10:30:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert6950439d1a4f7986d8be398c00ee929c-0",
+    "originalId": "CSVConvert6950439d1a4f7986d8be398c00ee929c",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇫🇷 FRA",
+    "start": "2026-02-12T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertcde86860bef0636a42db7fad5ec7f691",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Moguls Final",
+    "start": "2026-02-12T11:15:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert4cd661fb60725591f57538c4bc2ea0fb",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s 10km Interval Start Free",
+    "start": "2026-02-12T12:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertbc8a64aebc5488341e4755ad44654af6",
+    "sport": "Другое",
+    "title": "Snowboarding – Men's Snowboard Cross – Playoffs",
+    "start": "2026-02-12T12:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582-0",
+    "originalId": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇩🇪 GER",
+    "start": "2026-02-12T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582-1",
+    "originalId": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇭 SUI",
+    "start": "2026-02-12T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582-2",
+    "originalId": "CSVConvertba85e047e4bbf7dc6e91f40fb6ddb582",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇸🇪 SWE",
+    "start": "2026-02-12T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert25f0092ace3a6d54dafe28aea47ccc78",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Snowboard Cross – Finals",
+    "start": "2026-02-12T13:55:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert01cc26bd4a4371eedbe8e62326ea5ad0",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Women’s 5000m",
+    "start": "2026-02-12T15:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta4d8c32d2658e888ad8b72e329748f57-0",
+    "originalId": "CSVConverta4d8c32d2658e888ad8b72e329748f57",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇨🇦 CAN",
+    "start": "2026-02-12T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbaa809e50d9d24be3c229d6f4df2facb",
+    "sport": "Другое",
+    "title": "Luge 🥇 – Team Relay",
+    "start": "2026-02-12T17:30:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2-0",
+    "originalId": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇬🇧 GBR",
+    "start": "2026-02-12T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2-1",
+    "originalId": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇰🇷 KOR",
+    "start": "2026-02-12T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2-2",
+    "originalId": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇯🇵 JPN",
+    "start": "2026-02-12T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2-3",
+    "originalId": "CSVConvertb10142937d3c0d2be9f4caf86f16e4c2",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇺🇸 USA",
+    "start": "2026-02-12T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert534514449377a7177985932980cfe93e",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Women's Halfpipe – Finals",
+    "start": "2026-02-12T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert9fe27a5ed3ce9e02404d6c61715761ac",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 500m – Playoffs",
+    "start": "2026-02-12T19:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9707c0e833650167a5a79b456bd252d5",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 1000m – Playoffs",
+    "start": "2026-02-12T19:30:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert009917b8000c36439d13142b132125db-0",
+    "originalId": "CSVConvert009917b8000c36439d13142b132125db",
+    "sport": "Другое",
+    "title": "LAT 🇱🇻 vs 🇺🇸 USA",
+    "start": "2026-02-12T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertad499b61365d3fc46ce5328c6ed1b317-0",
+    "originalId": "CSVConvertad499b61365d3fc46ce5328c6ed1b317",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇩🇰 DEN",
+    "start": "2026-02-12T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2912e77916080d7123359caf2d72fe10",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Women’s 500m – Finals",
+    "start": "2026-02-12T20:25:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert44689c579e9abb651e5056a3af50632d",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Men’s 1000m – Finals",
+    "start": "2026-02-12T20:35:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert0e8d0649951edfc662911539642d48ef-0",
+    "originalId": "CSVConvert0e8d0649951edfc662911539642d48ef",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇺🇸 USA",
+    "start": "2026-02-13T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0e8d0649951edfc662911539642d48ef-1",
+    "originalId": "CSVConvert0e8d0649951edfc662911539642d48ef",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇮🇹 ITA",
+    "start": "2026-02-13T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0e8d0649951edfc662911539642d48ef-2",
+    "originalId": "CSVConvert0e8d0649951edfc662911539642d48ef",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇳🇴 NOR",
+    "start": "2026-02-13T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0e8d0649951edfc662911539642d48ef-3",
+    "originalId": "CSVConvert0e8d0649951edfc662911539642d48ef",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇿 CZE",
+    "start": "2026-02-13T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert6d25804e3c31add121c7a37b38ea542f",
+    "sport": "Другое",
+    "title": "Snowboarding – Women’s Snowboard Cross – Seeding",
+    "start": "2026-02-13T09:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert977ee43f14546edb1935d48bef3f0a66",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s 10km Interval Start Free",
+    "start": "2026-02-13T10:45:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert27e4ac0c6ec1d2b31de1dd28916ff0f2-0",
+    "originalId": "CSVConvert27e4ac0c6ec1d2b31de1dd28916ff0f2",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇸🇰 SVK",
+    "start": "2026-02-13T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf9719c279f02190ccc5cdbb1fe6e3ff4-0",
+    "originalId": "CSVConvertf9719c279f02190ccc5cdbb1fe6e3ff4",
+    "sport": "Другое",
+    "title": "FIN 🇫🇮 vs 🇸🇪 SWE",
+    "start": "2026-02-13T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8f3db76534c87bdbbdc044da70d40dfa",
+    "sport": "Другое",
+    "title": "Snowboarding – Women’s Snowboard Cross – Playoffs",
+    "start": "2026-02-13T12:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8a84f6a4d079551eaf2be70bf28421bd",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Men's 10km Sprint",
+    "start": "2026-02-13T13:00:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert21073ef769c19bc613fba6b11df05e7d-0",
+    "originalId": "CSVConvert21073ef769c19bc613fba6b11df05e7d",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇸🇪 SWE",
+    "start": "2026-02-13T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert21073ef769c19bc613fba6b11df05e7d-1",
+    "originalId": "CSVConvert21073ef769c19bc613fba6b11df05e7d",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇨🇭 SUI",
+    "start": "2026-02-13T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert21073ef769c19bc613fba6b11df05e7d-2",
+    "originalId": "CSVConvert21073ef769c19bc613fba6b11df05e7d",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇦 CAN",
+    "start": "2026-02-13T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert21073ef769c19bc613fba6b11df05e7d-3",
+    "originalId": "CSVConvert21073ef769c19bc613fba6b11df05e7d",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇰🇷 KOR",
+    "start": "2026-02-13T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert80d79f4355f1ea6158f36190793194a1",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Women’s Snowboard Cross – Finals",
+    "start": "2026-02-13T13:40:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5225c588d54c04257960bcd56eff2d60",
+    "sport": "Другое",
+    "title": "Skeleton – Women",
+    "start": "2026-02-13T15:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert17a0b70efd632c7f2340375af0f84ce4",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Men’s 10000m",
+    "start": "2026-02-13T15:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert477535fd3c4862cb5f3ad0cd343b0943",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Quarterfinals",
+    "start": "2026-02-13T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertafe56b149c9a9398527331e12e745cfd-0",
+    "originalId": "CSVConvertafe56b149c9a9398527331e12e745cfd",
+    "sport": "Другое",
+    "title": "FRA 🇫🇷 vs 🇨🇿 CZE",
+    "start": "2026-02-13T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert5e4a2638dd370e6c950f93de0ad820ff",
+    "sport": "Другое",
+    "title": "Figure Skating 🥇 – Men Single Skating – Free Skating",
+    "start": "2026-02-13T18:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1ec41b9985e2276b9580635fbc733525-0",
+    "originalId": "CSVConvert1ec41b9985e2276b9580635fbc733525",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇳 CHN",
+    "start": "2026-02-13T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1ec41b9985e2276b9580635fbc733525-1",
+    "originalId": "CSVConvert1ec41b9985e2276b9580635fbc733525",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇳🇴 NOR",
+    "start": "2026-02-13T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1ec41b9985e2276b9580635fbc733525-2",
+    "originalId": "CSVConvert1ec41b9985e2276b9580635fbc733525",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇮🇹 ITA",
+    "start": "2026-02-13T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertb0cc5cc0a6aaafc5cb3917e1a8439569",
+    "sport": "Другое",
+    "title": "Skeleton 🥇 – Men",
+    "start": "2026-02-13T18:30:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert8cac64d20126a4855c9fe9701e3a350e",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Men’s Halfpipe – Finals",
+    "start": "2026-02-13T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertf9bead0b67c21663fdaf726e20749243-0",
+    "originalId": "CSVConvertf9bead0b67c21663fdaf726e20749243",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇨🇭 SUI",
+    "start": "2026-02-13T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert66a13ea5d5e15048c81fc334e8299e87",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Quarterfinals",
+    "start": "2026-02-13T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5683ce638d9de44fd1ed14757c9e087b-0",
+    "originalId": "CSVConvert5683ce638d9de44fd1ed14757c9e087b",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇳 CHN",
+    "start": "2026-02-14T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert5683ce638d9de44fd1ed14757c9e087b-1",
+    "originalId": "CSVConvert5683ce638d9de44fd1ed14757c9e087b",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇨🇦 CAN",
+    "start": "2026-02-14T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert5683ce638d9de44fd1ed14757c9e087b-2",
+    "originalId": "CSVConvert5683ce638d9de44fd1ed14757c9e087b",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇯🇵 JPN",
+    "start": "2026-02-14T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertfe98e1503e7d3e7f7459036077c8fd09",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Men’s Giant Slalom",
+    "start": "2026-02-14T09:00:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert50e71055e4d5b8d75d529adbd0e11cb6",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Dual Moguls Playoffs",
+    "start": "2026-02-14T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte09b9792dba8152162d936d80aacb3e6",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Dual Moguls Final",
+    "start": "2026-02-14T10:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertf65bd4ebad90e7c04d64f6d61d6f5e75",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s 4 x 7.5km Relay",
+    "start": "2026-02-14T11:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert965aed63e1d7a91b9cd4e4b40275aac6-0",
+    "originalId": "CSVConvert965aed63e1d7a91b9cd4e4b40275aac6",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇱🇻 LAT",
+    "start": "2026-02-14T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert70d2ee18a3b52e42f0860d681ad32590-0",
+    "originalId": "CSVConvert70d2ee18a3b52e42f0860d681ad32590",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇸🇰 SVK",
+    "start": "2026-02-14T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e38214080b368327802c721401a15e5-0",
+    "originalId": "CSVConvert7e38214080b368327802c721401a15e5",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇬🇧 GBR",
+    "start": "2026-02-14T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e38214080b368327802c721401a15e5-1",
+    "originalId": "CSVConvert7e38214080b368327802c721401a15e5",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇨🇳 CHN",
+    "start": "2026-02-14T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e38214080b368327802c721401a15e5-2",
+    "originalId": "CSVConvert7e38214080b368327802c721401a15e5",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇦 CAN",
+    "start": "2026-02-14T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7e38214080b368327802c721401a15e5-3",
+    "originalId": "CSVConvert7e38214080b368327802c721401a15e5",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇺🇸 USA",
+    "start": "2026-02-14T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd44882bc9510b860c662089e395f6ff6",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Women's 7.5km Sprint",
+    "start": "2026-02-14T13:45:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert81c17c6e334a08d72799abe45777ab9c",
+    "sport": "Другое",
+    "title": "Speed Skating – Women’s Team Pursuit – Playoffs",
+    "start": "2026-02-14T15:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8fc11435f8904c70442cd61998649d09-0",
+    "originalId": "CSVConvert8fc11435f8904c70442cd61998649d09",
+    "sport": "Другое",
+    "title": "FIN 🇫🇮 vs 🇮🇹 ITA",
+    "start": "2026-02-14T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert07c4bfb6d45274f1267b0dcfb2e6eb51",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Quarterfinals",
+    "start": "2026-02-14T15:40:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert30ffce901a9f25c45421dac40332efc6",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Men’s 500m",
+    "start": "2026-02-14T16:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert689837f6546b0ab92959ddaa15d35298",
+    "sport": "Другое",
+    "title": "Skeleton 🥇 – Women",
+    "start": "2026-02-14T17:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertd98ff1609744d04c2525b377ebee4f0b",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Men’s Large Hill Individual",
+    "start": "2026-02-14T17:45:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverte1bbbc44fc7a54cab46493c129efe886-0",
+    "originalId": "CSVConverte1bbbc44fc7a54cab46493c129efe886",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇨🇭 SUI",
+    "start": "2026-02-14T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte1bbbc44fc7a54cab46493c129efe886-1",
+    "originalId": "CSVConverte1bbbc44fc7a54cab46493c129efe886",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇺🇸 USA",
+    "start": "2026-02-14T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte1bbbc44fc7a54cab46493c129efe886-2",
+    "originalId": "CSVConverte1bbbc44fc7a54cab46493c129efe886",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇩🇰 DEN",
+    "start": "2026-02-14T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte1bbbc44fc7a54cab46493c129efe886-3",
+    "originalId": "CSVConverte1bbbc44fc7a54cab46493c129efe886",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇸🇪 SWE",
+    "start": "2026-02-14T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9de435502814d22658678f31800d2a7a",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Freeski Big Air Qualification",
+    "start": "2026-02-14T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0ab32e19692e1e17207b93ec48270981",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 1500m – Playoffs",
+    "start": "2026-02-14T19:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2f43d2cc522c066e77e81333d8ab1f2b",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 1000m – Heats",
+    "start": "2026-02-14T20:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert26719628bb52fee90b7da17c9d0f921c-0",
+    "originalId": "CSVConvert26719628bb52fee90b7da17c9d0f921c",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇩🇰 DEN",
+    "start": "2026-02-14T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert53c038afb0d06c777230985650384821",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Quarterfinals",
+    "start": "2026-02-14T20:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertebbfc4f1e8b144fd5fc5ae82f892d58a",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 3000m Relay – Semifinals",
+    "start": "2026-02-14T21:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert2aa68f442cecdd316e67474f0a4b5585",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Men’s 1500m – Finals",
+    "start": "2026-02-14T21:25:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert597bc959bef3618a52e612e8a7fa53f6-0",
+    "originalId": "CSVConvert597bc959bef3618a52e612e8a7fa53f6",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇸🇪 SWE",
+    "start": "2026-02-15T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert597bc959bef3618a52e612e8a7fa53f6-1",
+    "originalId": "CSVConvert597bc959bef3618a52e612e8a7fa53f6",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇬🇧 GBR",
+    "start": "2026-02-15T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert597bc959bef3618a52e612e8a7fa53f6-2",
+    "originalId": "CSVConvert597bc959bef3618a52e612e8a7fa53f6",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇮🇹 ITA",
+    "start": "2026-02-15T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert5ae37f90ef3265eceb6430d1fddce2c7",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Women’s Giant Slalom",
+    "start": "2026-02-15T09:00:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert2b3a6c556590cfe354ca76a78533a47e",
+    "sport": "Другое",
+    "title": "Bobsleigh – Women's Monobob",
+    "start": "2026-02-15T09:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertafc1037fc8707011a364b94057a9ea31",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Dual Moguls Playoffs",
+    "start": "2026-02-15T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert7776a308e4d3eefea4b474bf186bfac4",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Men's 12.5km Pursuit",
+    "start": "2026-02-15T10:15:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert9d48aa417168524705e0bfbe92f6e39b",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Dual Moguls Final",
+    "start": "2026-02-15T10:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertb23f2825550a735a47920d1bb8d0af12",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s 4 x 7.5km Relay",
+    "start": "2026-02-15T11:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5a3597ee95e74ac21aa4ec99ce242c12-0",
+    "originalId": "CSVConvert5a3597ee95e74ac21aa4ec99ce242c12",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇨🇿 CZE",
+    "start": "2026-02-15T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertcad1e6c692eb3ecaa8ae8f3da3c6bbea",
+    "sport": "Другое",
+    "title": "Snowboarding – Mixed Team Snowboard Cross – Playoffs",
+    "start": "2026-02-15T12:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd87eb5f654af2a037693db1fe1da4763-0",
+    "originalId": "CSVConvertd87eb5f654af2a037693db1fe1da4763",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇰🇷 KOR",
+    "start": "2026-02-15T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd87eb5f654af2a037693db1fe1da4763-1",
+    "originalId": "CSVConvertd87eb5f654af2a037693db1fe1da4763",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇮🇹 ITA",
+    "start": "2026-02-15T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd87eb5f654af2a037693db1fe1da4763-2",
+    "originalId": "CSVConvertd87eb5f654af2a037693db1fe1da4763",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇸🇪 SWE",
+    "start": "2026-02-15T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd87eb5f654af2a037693db1fe1da4763-3",
+    "originalId": "CSVConvertd87eb5f654af2a037693db1fe1da4763",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇳 CHN",
+    "start": "2026-02-15T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert69136a1ea71bd8cd3a1e39b31e62cd97",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Mixed Team Snowboard Cross – Finals",
+    "start": "2026-02-15T13:35:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert6e14d9de3b49cb49e989a506b210b806",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Women's 10km Pursuit",
+    "start": "2026-02-15T13:45:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverte0445e26229e56d1da75f56dfb590ed0",
+    "sport": "Другое",
+    "title": "Speed Skating – Men’s Team Pursuit – Playoffs",
+    "start": "2026-02-15T15:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert18371242be99abd7151184de4518e81a-0",
+    "originalId": "CSVConvert18371242be99abd7151184de4518e81a",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇫🇷 FRA",
+    "start": "2026-02-15T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert384de5f972dee5404ff3c61b0bda0289",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Women’s 500m",
+    "start": "2026-02-15T16:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5ff247dd9075f23160d2107eb5512805",
+    "sport": "Другое",
+    "title": "Skeleton 🥇 – Mixed Team",
+    "start": "2026-02-15T17:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert0725439c78cbe83660d27d27f266d80d",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Women’s Large Hill Individual",
+    "start": "2026-02-15T17:45:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54-0",
+    "originalId": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇨🇦 CAN",
+    "start": "2026-02-15T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54-1",
+    "originalId": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇺🇸 USA",
+    "start": "2026-02-15T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54-2",
+    "originalId": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇿 CZE",
+    "start": "2026-02-15T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54-3",
+    "originalId": "CSVConvert4006e8ff1cdbb832e333ae981ae7eb54",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇨🇭 SUI",
+    "start": "2026-02-15T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf8a4a7e40b4099f8b0da0ebaaa1193ae-0",
+    "originalId": "CSVConvertf8a4a7e40b4099f8b0da0ebaaa1193ae",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇱🇻 LAT",
+    "start": "2026-02-15T18:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert0673d45d5ab7032333308e4198e5c34f",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Freeski Big Air Qualification",
+    "start": "2026-02-15T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert224b710ceb24448b12c02832c4766585",
+    "sport": "Другое",
+    "title": "Figure Skating – Pair Skating – Short Program",
+    "start": "2026-02-15T18:45:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertfc95e6ed06479e100df0bea0c15a7c2c-0",
+    "originalId": "CSVConvertfc95e6ed06479e100df0bea0c15a7c2c",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇩🇪 GER",
+    "start": "2026-02-15T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf7931ed4a683ee66afd7870c677049f5-0",
+    "originalId": "CSVConvertf7931ed4a683ee66afd7870c677049f5",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇨🇭 SUI",
+    "start": "2026-02-16T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf7931ed4a683ee66afd7870c677049f5-1",
+    "originalId": "CSVConvertf7931ed4a683ee66afd7870c677049f5",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇨🇦 CAN",
+    "start": "2026-02-16T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf7931ed4a683ee66afd7870c677049f5-2",
+    "originalId": "CSVConvertf7931ed4a683ee66afd7870c677049f5",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇬🇧 GBR",
+    "start": "2026-02-16T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert4415a2f0f540acec90b68f1ef70b8148",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Giant Slalom",
+    "start": "2026-02-16T09:00:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert8b8d7f1d0ee073e0f0a917be3252c6c4",
+    "sport": "Другое",
+    "title": "Bobsleigh – 2-man",
+    "start": "2026-02-16T09:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert180bd2989595dc0fa56b3178a39a27d1",
+    "sport": "Другое",
+    "title": "Snowboarding – Women's Slopestyle – Qualification",
+    "start": "2026-02-16T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf260453e12229b7dc9f437f86a87bce8",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 1000m – Playoffs",
+    "start": "2026-02-16T10:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert65074fb46200dcb4dc70c29d15e3f6e5",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 500m – Heats",
+    "start": "2026-02-16T10:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1b2e1ce328e9a62c820f60819cc157e2",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 5000m Relay – Semifinals",
+    "start": "2026-02-16T11:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert0947a7764b016954e3c2a88e26aaf9e0",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Women’s 1000m – Finals",
+    "start": "2026-02-16T11:35:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta1ad22b0777293b7b184d5f74b363fb9",
+    "sport": "Другое",
+    "title": "Snowboarding – Men's Slopestyle – Qualification",
+    "start": "2026-02-16T13:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9eb162bc817d019675ca13b1fae8329e-0",
+    "originalId": "CSVConvert9eb162bc817d019675ca13b1fae8329e",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇳🇴 NOR",
+    "start": "2026-02-16T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9eb162bc817d019675ca13b1fae8329e-1",
+    "originalId": "CSVConvert9eb162bc817d019675ca13b1fae8329e",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇨🇦 CAN",
+    "start": "2026-02-16T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9eb162bc817d019675ca13b1fae8329e-2",
+    "originalId": "CSVConvert9eb162bc817d019675ca13b1fae8329e",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇩🇪 GER",
+    "start": "2026-02-16T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9eb162bc817d019675ca13b1fae8329e-3",
+    "originalId": "CSVConvert9eb162bc817d019675ca13b1fae8329e",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇳 CHN",
+    "start": "2026-02-16T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta7e3a97328db7f3df449745bfd3eb948",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Semifinals",
+    "start": "2026-02-16T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertecff74b9f9e4abac0696d6555bda3dcf",
+    "sport": "Другое",
+    "title": "Ski Jumping 🥇 – Men’s Super Team Large Hill",
+    "start": "2026-02-16T18:00:00.000Z",
+    "location": "Trampolino Giuseppe Dal Ben, 38037 Predazzo, Autonomous Province of Trento, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5b46b3decb0cc06dea78a9d6c9de4e8d",
+    "sport": "Другое",
+    "title": "Bobsleigh 🥇 – Women's Monobob",
+    "start": "2026-02-16T18:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f-0",
+    "originalId": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇮🇹 ITA",
+    "start": "2026-02-16T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f-1",
+    "originalId": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇨🇳 CHN",
+    "start": "2026-02-16T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f-2",
+    "originalId": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇬🇧 GBR",
+    "start": "2026-02-16T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f-3",
+    "originalId": "CSVConvertc6c6d7ade0d381b050c19b230c18a00f",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇨🇦 CAN",
+    "start": "2026-02-16T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert25d4ccf5ec34fcc7fe816da304f847c4",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Freeski Big Air Final",
+    "start": "2026-02-16T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta36e7017f924915380a5e1bda0e4273a",
+    "sport": "Другое",
+    "title": "Figure Skating 🥇 – Pair Skating – Free Skating",
+    "start": "2026-02-16T19:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1f099d52f2b5f5976265c996099a99d5",
+    "sport": "Другое",
+    "title": "Ice Hockey – W / Play-offs / Semifinals",
+    "start": "2026-02-16T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverteac2ed6ced615b4fceffb905091affbf-0",
+    "originalId": "CSVConverteac2ed6ced615b4fceffb905091affbf",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇸🇪 SWE",
+    "start": "2026-02-17T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverteac2ed6ced615b4fceffb905091affbf-1",
+    "originalId": "CSVConverteac2ed6ced615b4fceffb905091affbf",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇨🇳 CHN",
+    "start": "2026-02-17T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverteac2ed6ced615b4fceffb905091affbf-2",
+    "originalId": "CSVConverteac2ed6ced615b4fceffb905091affbf",
+    "sport": "Другое",
+    "title": "CZE 🇨🇿 vs 🇩🇪 GER",
+    "start": "2026-02-17T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd629ac7d9d781d998051a886b9918685",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Aerials Qualification",
+    "start": "2026-02-17T09:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd911ccced17439d28b71c4e24abca632",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Qualification / Play-off",
+    "start": "2026-02-17T11:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert176437017e6b9033e8132bd5779d9435",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Qualification / Play-off",
+    "start": "2026-02-17T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert21b2d421f23e1e30eb8a68f5447d25e1",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Women’s Slopestyle – Finals",
+    "start": "2026-02-17T12:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta9ab9134a2dc372d96949530cd089133",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Aerials Qualification",
+    "start": "2026-02-17T12:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert750c772b612de7383018560a8b9d2530-0",
+    "originalId": "CSVConvert750c772b612de7383018560a8b9d2530",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇨🇦 CAN",
+    "start": "2026-02-17T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert750c772b612de7383018560a8b9d2530-1",
+    "originalId": "CSVConvert750c772b612de7383018560a8b9d2530",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇯🇵 JPN",
+    "start": "2026-02-17T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert750c772b612de7383018560a8b9d2530-2",
+    "originalId": "CSVConvert750c772b612de7383018560a8b9d2530",
+    "sport": "Другое",
+    "title": "DEN 🇩🇰 vs 🇺🇸 USA",
+    "start": "2026-02-17T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert750c772b612de7383018560a8b9d2530-3",
+    "originalId": "CSVConvert750c772b612de7383018560a8b9d2530",
+    "sport": "Другое",
+    "title": "KOR 🇰🇷 vs 🇨🇭 SUI",
+    "start": "2026-02-17T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc022b8a21976b7743772b247bcb45496",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Men's 4x7.5km Relay",
+    "start": "2026-02-17T13:30:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertfba94c9ae7f613201033b1a59060006f",
+    "sport": "Другое",
+    "title": "Speed Skating – Team Pursuit – Playoffs",
+    "start": "2026-02-17T13:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc629ce60d48a5f995903e1757627190e",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Team Pursuit – Finals",
+    "start": "2026-02-17T14:20:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert461d31c8dedec1f7c29d3ef787f310b1",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Qualification / Play-off",
+    "start": "2026-02-17T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertfbb3fad19ac30896d52c31532a76473f",
+    "sport": "Другое",
+    "title": "Figure Skating – Women Single Skating – Short Program",
+    "start": "2026-02-17T17:45:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert3d4488d009be086bc454c248c9b9cac4",
+    "sport": "Другое",
+    "title": "Bobsleigh 🥇 – 2-man",
+    "start": "2026-02-17T18:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert764defb2de8306bb8c369777daa30a3b-0",
+    "originalId": "CSVConvert764defb2de8306bb8c369777daa30a3b",
+    "sport": "Другое",
+    "title": "GER 🇩🇪 vs 🇨🇭 SUI",
+    "start": "2026-02-17T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert764defb2de8306bb8c369777daa30a3b-1",
+    "originalId": "CSVConvert764defb2de8306bb8c369777daa30a3b",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇮🇹 ITA",
+    "start": "2026-02-17T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert764defb2de8306bb8c369777daa30a3b-2",
+    "originalId": "CSVConvert764defb2de8306bb8c369777daa30a3b",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇬🇧 GBR",
+    "start": "2026-02-17T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert764defb2de8306bb8c369777daa30a3b-3",
+    "originalId": "CSVConvert764defb2de8306bb8c369777daa30a3b",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇳🇴 NOR",
+    "start": "2026-02-17T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert121399afd3254d8edb76c1a6894d105b",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Freeski Big Air Final",
+    "start": "2026-02-17T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert915069e8e84e420dc5be47d3c19e8ce0",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Qualification / Play-off",
+    "start": "2026-02-17T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbeb304df197fd03dfeadc2defdfb534f-0",
+    "originalId": "CSVConvertbeb304df197fd03dfeadc2defdfb534f",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇩🇰 DEN",
+    "start": "2026-02-18T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbeb304df197fd03dfeadc2defdfb534f-1",
+    "originalId": "CSVConvertbeb304df197fd03dfeadc2defdfb534f",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇬🇧 GBR",
+    "start": "2026-02-18T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertbeb304df197fd03dfeadc2defdfb534f-2",
+    "originalId": "CSVConvertbeb304df197fd03dfeadc2defdfb534f",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇰🇷 KOR",
+    "start": "2026-02-18T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert37297e19dcb899872191215b7a55a081",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Women’s Team Sprint Free Qualification",
+    "start": "2026-02-18T08:45:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert81119b5cf7abccc41d7c3ec0608871b3",
+    "sport": "Другое",
+    "title": "Alpine Skiing 🥇 – Women’s Slalom",
+    "start": "2026-02-18T09:00:00.000Z",
+    "location": "ITSA Ski Area Socrepes",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertfd17a9cd96a755e32b29c56763bdb5a7",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing – Men’s Team Sprint Free Qualification",
+    "start": "2026-02-18T09:15:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverte9570fd0baa6faef55735cfe891213a1",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Aerials Final",
+    "start": "2026-02-18T10:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert80a1371ea5cf081e048c6a3c6ac4dbbf",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s Team Sprint Free Final",
+    "start": "2026-02-18T10:45:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1812010fae79b63b687ec2c200256e76",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Quarterfinals",
+    "start": "2026-02-18T11:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert88eedbc1b1f7079ef6c69df28297378d",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s Team Sprint Free Final",
+    "start": "2026-02-18T11:15:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc6d4278d0d397d1a8607eb68dd4a538d",
+    "sport": "Другое",
+    "title": "Snowboarding 🥇 – Men’s Slopestyle – Finals",
+    "start": "2026-02-18T11:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert39069520bb593d5b8e79cd03da83966e-0",
+    "originalId": "CSVConvert39069520bb593d5b8e79cd03da83966e",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇦 CAN",
+    "start": "2026-02-18T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert39069520bb593d5b8e79cd03da83966e-1",
+    "originalId": "CSVConvert39069520bb593d5b8e79cd03da83966e",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇨🇿 CZE",
+    "start": "2026-02-18T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert39069520bb593d5b8e79cd03da83966e-2",
+    "originalId": "CSVConvert39069520bb593d5b8e79cd03da83966e",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇨🇭 SUI",
+    "start": "2026-02-18T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert39069520bb593d5b8e79cd03da83966e-3",
+    "originalId": "CSVConvert39069520bb593d5b8e79cd03da83966e",
+    "sport": "Другое",
+    "title": "USA 🇺🇸 vs 🇬🇧 GBR",
+    "start": "2026-02-18T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertd6104ddec1547225503255e81f1833dd",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Women's 4x6km Relay",
+    "start": "2026-02-18T13:45:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert3c678284d28a6eb036ecba271b1201aa",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Quarterfinals",
+    "start": "2026-02-18T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1b3bf556c477d1a42567473bec43ab73",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Quarterfinals",
+    "start": "2026-02-18T17:10:00.000Z",
+    "location": "Milano Ice hockey Park - Olimpiadi Invernali di Milano Cortina 2026, Strada Statale Sempione",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta356a426c3bdf3c88f354a81475c5a26-0",
+    "originalId": "CSVConverta356a426c3bdf3c88f354a81475c5a26",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇯🇵 JPN",
+    "start": "2026-02-18T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta356a426c3bdf3c88f354a81475c5a26-1",
+    "originalId": "CSVConverta356a426c3bdf3c88f354a81475c5a26",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇩🇰 DEN",
+    "start": "2026-02-18T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta356a426c3bdf3c88f354a81475c5a26-2",
+    "originalId": "CSVConverta356a426c3bdf3c88f354a81475c5a26",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇮🇹 ITA",
+    "start": "2026-02-18T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta356a426c3bdf3c88f354a81475c5a26-3",
+    "originalId": "CSVConverta356a426c3bdf3c88f354a81475c5a26",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇸🇪 SWE",
+    "start": "2026-02-18T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertdf3be1653cd1471894bcd618a4d08301",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Men’s 500m – Playoffs",
+    "start": "2026-02-18T19:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert86227e0b25ad69f8d15635f0b0a4bf75",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Women’s 3000m Relay – Finals",
+    "start": "2026-02-18T19:50:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1374a58d02443b3add79af46db863701",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Quarterfinals",
+    "start": "2026-02-18T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta3bcd9f8a983ab9f585447ff72453179",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Men’s 500m – Finals",
+    "start": "2026-02-18T20:20:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert167720fce41e8578e2eee148e40a1ce6-0",
+    "originalId": "CSVConvert167720fce41e8578e2eee148e40a1ce6",
+    "sport": "Другое",
+    "title": "SWE 🇸🇪 vs 🇨🇿 CZE",
+    "start": "2026-02-19T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert167720fce41e8578e2eee148e40a1ce6-1",
+    "originalId": "CSVConvert167720fce41e8578e2eee148e40a1ce6",
+    "sport": "Другое",
+    "title": "ITA 🇮🇹 vs 🇨🇭 SUI",
+    "start": "2026-02-19T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert167720fce41e8578e2eee148e40a1ce6-2",
+    "originalId": "CSVConvert167720fce41e8578e2eee148e40a1ce6",
+    "sport": "Другое",
+    "title": "CHN 🇨🇳 vs 🇩🇪 GER",
+    "start": "2026-02-19T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert167720fce41e8578e2eee148e40a1ce6-3",
+    "originalId": "CSVConvert167720fce41e8578e2eee148e40a1ce6",
+    "sport": "Другое",
+    "title": "NOR 🇳🇴 vs 🇨🇦 CAN",
+    "start": "2026-02-19T08:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2410c2406bc551c9cd1ccd8085e0311c",
+    "sport": "Другое",
+    "title": "Ski Mountaineering – Women’s Sprint Heats",
+    "start": "2026-02-19T08:50:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert666af90bf4e60b5c683929afd84d7b03",
+    "sport": "Другое",
+    "title": "Ski Mountaineering – Men’s Sprint Heats",
+    "start": "2026-02-19T09:30:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertc4fa1bdf9581fc8a4297d530959a8646",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Freeski Halfpipe Qualification",
+    "start": "2026-02-19T09:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertff60ffaba4e8b113a87e4acebc8b8b48",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Aerials Final",
+    "start": "2026-02-19T10:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert3ab11aafc0e4b7fe4f412f6c6e6e64c5",
+    "sport": "Другое",
+    "title": "Ski Mountaineering – Women’s Sprint Semifinals",
+    "start": "2026-02-19T11:55:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert5a58403b771860ed0c58b835964d3962",
+    "sport": "Другое",
+    "title": "Ski Mountaineering – Men’s Sprint Semifinals",
+    "start": "2026-02-19T12:25:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert0bbb1c90cd63847fd28161ff795aeac5",
+    "sport": "Другое",
+    "title": "Ski Mountaineering 🥇 – Women’s Sprint Final",
+    "start": "2026-02-19T12:55:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta9fd706d6d064eb1557ea05d00212ec1-0",
+    "originalId": "CSVConverta9fd706d6d064eb1557ea05d00212ec1",
+    "sport": "Другое",
+    "title": "SUI 🇨🇭 vs 🇺🇸 USA",
+    "start": "2026-02-19T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta9fd706d6d064eb1557ea05d00212ec1-1",
+    "originalId": "CSVConverta9fd706d6d064eb1557ea05d00212ec1",
+    "sport": "Другое",
+    "title": "CAN 🇨🇦 vs 🇰🇷 KOR",
+    "start": "2026-02-19T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta9fd706d6d064eb1557ea05d00212ec1-2",
+    "originalId": "CSVConverta9fd706d6d064eb1557ea05d00212ec1",
+    "sport": "Другое",
+    "title": "JPN 🇯🇵 vs 🇨🇳 CHN",
+    "start": "2026-02-19T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConverta9fd706d6d064eb1557ea05d00212ec1-3",
+    "originalId": "CSVConverta9fd706d6d064eb1557ea05d00212ec1",
+    "sport": "Другое",
+    "title": "GBR 🇬🇧 vs 🇮🇹 ITA",
+    "start": "2026-02-19T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert1c96b6ca1adcc69736e280ebd920b33b",
+    "sport": "Другое",
+    "title": "Ski Mountaineering 🥇 – Men’s Sprint Final",
+    "start": "2026-02-19T13:15:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert70c88941416118e79a4b6583907c4825",
+    "sport": "Другое",
+    "title": "Ice Hockey 🥉 – W / Medal / Bronze Medal Game",
+    "start": "2026-02-19T13:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert356b1323d6b41624b0ab594cf911b92a",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Men’s 1500m",
+    "start": "2026-02-19T15:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverta76e5138e73a2d690a15e07f8424fb23",
+    "sport": "Другое",
+    "title": "Figure Skating 🥇 – Women Single Skating – Free Skating",
+    "start": "2026-02-19T18:00:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertb1d8f19fc35c6d5ae13173746c99ea22",
+    "sport": "Другое",
+    "title": "Curling – M / Semifinals",
+    "start": "2026-02-19T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertbcee9e87054371a31d3c198fc5ce64cd",
+    "sport": "Другое",
+    "title": "Ice Hockey 🥇 – W / Medal / Gold Medal Game",
+    "start": "2026-02-19T18:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert0183a93b68574261b476aa18679a75d6",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Freeski Halfpipe Qualification",
+    "start": "2026-02-19T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert03961dc35ff6752c0c8a5666e6afbc1c",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Ski Cross Seeding",
+    "start": "2026-02-20T09:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert028b78b3c96583bacbca4294f16ed1e9",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Women’s Ski Cross Playoffs",
+    "start": "2026-02-20T11:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertf5273100db309291a8dd701ee2091e78",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Ski Cross Final",
+    "start": "2026-02-20T12:10:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertce294d95bf54f997216e73f133c0b9c0",
+    "sport": "Другое",
+    "title": "Curling – W / Semifinals",
+    "start": "2026-02-20T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert6d6d67d76a1902945e348dd322b6d662",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Men's 15km Mass Start",
+    "start": "2026-02-20T13:15:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertc1acc5cb9651dece662ef670fd83f727",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Women’s 1500m",
+    "start": "2026-02-20T15:30:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert66660e4ad1ee37db2bd35a2e3d0d09ef",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Semifinals",
+    "start": "2026-02-20T15:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertb5354919d5e215f14c8c514be89d3c42",
+    "sport": "Другое",
+    "title": "Bobsleigh – 2-woman",
+    "start": "2026-02-20T17:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert8cd7124832ae37dbb4690740963cd2fe",
+    "sport": "Другое",
+    "title": "Curling 🥉 – M / Bronze Medal Game",
+    "start": "2026-02-20T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertec26fa73a87d7aa76a7457b6c1cc87e2",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Freeski Halfpipe Final",
+    "start": "2026-02-20T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert74857370d733eb24e0c326105fa50221",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating – Women’s 1500m – Playoffs",
+    "start": "2026-02-20T19:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert110321f0f241ec7f4881ec1d53485eb4",
+    "sport": "Другое",
+    "title": "Ice Hockey – M / Play-offs / Semifinals",
+    "start": "2026-02-20T20:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert81a49de214d88d2644e3e32f5bd5120c",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Men’s 5000m Relay – Finals",
+    "start": "2026-02-20T20:15:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert3bbfe0ed6faba5c15df9f4c2d9cdcaaa",
+    "sport": "Другое",
+    "title": "Short Track Speed Skating 🥇 – Women’s 1500m – Finals",
+    "start": "2026-02-20T20:55:00.000Z",
+    "location": "Unipol Forum, Via Giuseppe di Vittorio, 6, 20057 Assago MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert1187b1dd254a50a9368b76273a7afb55",
+    "sport": "Другое",
+    "title": "Bobsleigh – 4-man",
+    "start": "2026-02-21T09:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9a48343d799c68e7ce8935a9ea156568",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Ski Cross Seeding",
+    "start": "2026-02-21T09:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvertda738eb8b23c11962edf8158cc4da85d",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Mixed Team Aerials Final",
+    "start": "2026-02-21T09:45:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert9b84708ed4e096c1e7656d801fd3f3a3",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Men’s 50km Mass Start Classic",
+    "start": "2026-02-21T10:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert463b047f6a4d72a2dc602d4b7203e73d",
+    "sport": "Другое",
+    "title": "Freestyle Skiing – Men’s Ski Cross Playoffs",
+    "start": "2026-02-21T11:00:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert6551f0fd51169923cc4c704718112754",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Men’s Ski Cross Final",
+    "start": "2026-02-21T12:10:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertf931601a6f41b88738423f8e07562d98",
+    "sport": "Другое",
+    "title": "Ski Mountaineering 🥇 – Mixed Relay",
+    "start": "2026-02-21T12:30:00.000Z",
+    "location": "Pista Stelvio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert99dbd2a0d8eba7ba33c31f471af4a88c",
+    "sport": "Другое",
+    "title": "Curling 🥉 – W / Bronze Medal Game",
+    "start": "2026-02-21T13:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert9de2c3222ad2b0c21998d2864562d9a4",
+    "sport": "Другое",
+    "title": "Biathlon 🥇 – Women's 12.5km Mass Start",
+    "start": "2026-02-21T13:15:00.000Z",
+    "location": "Sudtirol Arena - Biathlon Stadion",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert964cb6a83abc1129ebd08b8463a23cfa",
+    "sport": "Другое",
+    "title": "Speed Skating – Mass Start – Playoffs",
+    "start": "2026-02-21T14:00:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert133efe40f7dcfc1669c34443186f0643",
+    "sport": "Другое",
+    "title": "Speed Skating 🥇 – Mass Start – Finals",
+    "start": "2026-02-21T15:40:00.000Z",
+    "location": "Speed Skating - Olimpiadi Invernali di Milano Cortina 2026, G3CF+7G, Viale Lombardia Ovest, 15, 20017 Rho MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert833fb17528651d2edbeb7b38b95ffd27",
+    "sport": "Другое",
+    "title": "Bobsleigh 🥇 – 2-woman",
+    "start": "2026-02-21T18:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvert080ef8a62f874f06895e41c848e7b9a9",
+    "sport": "Другое",
+    "title": "Curling 🥇 – M / Gold Medal Game",
+    "start": "2026-02-21T18:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertdd965d8b7285f21ccee65dc54f6ecad6",
+    "sport": "Другое",
+    "title": "Freestyle Skiing 🥇 – Women’s Freeski Halfpipe Final",
+    "start": "2026-02-21T18:30:00.000Z",
+    "location": "Snowpark Twenty, Via Fontana, 206/a, 23041 Livigno SO, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertea17ba7659cd025913d1d435f20802e6",
+    "sport": "Другое",
+    "title": "Ice Hockey 🥉 – M / Medal / Bronze Medal Game",
+    "start": "2026-02-21T19:40:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": false
+  },
+  {
+    "id": "CSVConvert2722ef9930fd4bfef9c6f7782f903927",
+    "sport": "Другое",
+    "title": "Cross-Country Skiing 🥇 – Women’s 50km Mass Start Classic",
+    "start": "2026-02-22T09:00:00.000Z",
+    "location": "TESERO CROSS-COUNTRY SKIING STADIUM",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConverte81eb78113f6f01d4cb14cf6b0874b8e",
+    "sport": "Другое",
+    "title": "Bobsleigh 🥇 – 4-man",
+    "start": "2026-02-22T09:00:00.000Z",
+    "location": "Pista Olimpica \"Eugenio Monti\" - Cortina Sliding Centre",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertdc5b021bce771498a4373088b87f9987",
+    "sport": "Другое",
+    "title": "Curling 🥇 – W / Gold Medal Game",
+    "start": "2026-02-22T10:05:00.000Z",
+    "location": "Stadio Olimpico del Ghiaccio",
+    "isMedal": true
+  },
+  {
+    "id": "CSVConvertdfc512ece77315685437ab484061191c",
+    "sport": "Другое",
+    "title": "Ice Hockey 🥇 – M / Medal / Gold Medal Game",
+    "start": "2026-02-22T13:10:00.000Z",
+    "location": "PalaItalia Ice Hockey Arena Santagiulia, Via del Futurismo, 20138 Milano MI, Italy",
+    "isMedal": true
+  },
+  {
+    "id": "471isojefmmdopu2lik0k3jqmo@google.com",
+    "sport": "Другое",
+    "title": "Closing Ceremony",
+    "start": "2026-02-22T19:30:00.000Z",
+    "location": "Arena di Verona, P.za Bra, 1, 37121 Verona VR, Italy",
+    "isMedal": false
+  }
+]
