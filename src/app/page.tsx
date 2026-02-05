@@ -3,7 +3,7 @@ import { getEvents } from "@/lib/events";
 import { EventCard } from "@/components/EventCard";
 import { DayNav } from "@/components/DayNav";
 import { MedalTable } from "@/components/MedalTable";
-import { Tv, Search, Filter } from "lucide-react";
+import { Tv, Search, Filter, Zap, Info } from "lucide-react";
 import Link from "next/link";
 import { Metadata } from "next";
 import { AINWidget } from "@/components/AINWidget";
@@ -188,17 +188,36 @@ export default async function Home({ searchParams }: PageProps) {
 
           {/* Инфо-карточка */}
           <div className="bg-card border border-border rounded-[2.5rem] p-8">
-            <h4 className="text-xs font-black uppercase tracking-widest mb-4 flex items-center gap-2">
-              <Filter size={14} className="text-primary" /> Полезное
+            <h4 className="text-xs font-black uppercase tracking-widest mb-6 flex items-center gap-2 text-muted-foreground">
+              <Info size={14} className="text-primary" /> Полезная информация
             </h4>
-            <ul className="space-y-4 text-xs font-bold text-muted-foreground uppercase tracking-wider">
-              <li className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
-                <div className="w-1.5 h-1.5 rounded-full bg-primary"></div>
-                Как болеть за наших (AIN)
+            <ul className="space-y-4">
+              <li>
+                <Link
+                  href="/watch"
+                  className="flex items-center justify-between text-xs font-bold uppercase tracking-widest hover:text-primary transition-colors group"
+                >
+                  Где смотреть LIVE{" "}
+                  <Zap size={14} className="group-hover:animate-bounce" />
+                </Link>
               </li>
-              <li className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
-                <div className="w-1.5 h-1.5 rounded-full bg-primary"></div>
-                Все арены Милана 2026
+              <li>
+                <Link
+                  href="/info/ain"
+                  className="flex items-center justify-between text-xs font-bold uppercase tracking-widest hover:text-primary transition-colors group"
+                >
+                  Как болеть за AIN{" "}
+                  <span className="opacity-0 group-hover:opacity-100">🇷🇺</span>
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/info/venues"
+                  className="flex items-center justify-between text-xs font-bold uppercase tracking-widest hover:text-primary transition-colors group"
+                >
+                  Арены Олимпиады{" "}
+                  <span className="opacity-0 group-hover:opacity-100">🇮🇹</span>
+                </Link>
               </li>
             </ul>
           </div>
