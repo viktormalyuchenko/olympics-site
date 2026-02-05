@@ -17,37 +17,58 @@ interface PageProps {
 }
 
 export default async function Home({ searchParams }: PageProps) {
-  // 1. Разворачиваем параметры поиска (Next.js 16)
   const params = await searchParams;
   const { date, sport, gender } = params;
 
-  // 2. Получаем все события из JSON
   const allEvents = getEvents();
-
-  // 3. Собираем данные для фильтров
-  const sports = Array.from(new Set(allEvents.map((e) => e.sport_ru)))
-    .filter(Boolean)
-    .sort();
   const dates = Array.from(
     new Set(allEvents.map((e) => e.start.split("T")[0])),
   ).sort();
 
-  const today = new Date().toLocaleDateString("en-CA", {
+  // 1. Определяем текущую дату и выбранную дату
+  const todayISO = new Date().toLocaleDateString("en-CA", {
     timeZone: "Europe/Moscow",
   });
+  const selectedDate = date || (dates.includes(todayISO) ? todayISO : dates[0]);
 
-  const defaultDate = dates.includes(today)
-    ? today // Если сегодня есть соревнования — показываем сегодня
-    : dates[0]; // Если сегодня нет (до Олимпиады) — показываем первый день
-
-  const selectedDate = date || defaultDate;
-
-  const filteredEvents = allEvents.filter((e) => {
+  // 2. БАЗОВАЯ ФИЛЬТРАЦИЯ (по дате, спорту и полу)
+  const allFilteredEvents = allEvents.filter((e) => {
     const matchDate = e.start.startsWith(selectedDate);
-    const matchSport = sport ? e.sport_ru === sport : true;
+    const eventSport = e.sport_ru || e.sport_en;
+    const matchSport = sport ? eventSport === sport : true;
     const matchGender = gender ? e.gender === gender : true;
     return matchDate && matchSport && matchGender;
   });
+
+  // 3. ГРУППИРОВКА ФИЛЬТРОВАННЫХ СОБЫТИЙ
+  const now = new Date();
+
+  const liveEvents = allFilteredEvents.filter((e) => {
+    const start = new Date(e.start);
+    const end = new Date(e.end);
+    return now >= start && now <= end;
+  });
+
+  const upcomingEvents = allFilteredEvents.filter((e) => {
+    const start = new Date(e.start);
+    return now < start;
+  });
+
+  const completedEvents = allFilteredEvents.filter((e) => {
+    const end = new Date(e.end);
+    return now > end;
+  });
+
+  const sports = Array.from(
+    new Set(allEvents.map((e) => e.sport_ru || e.sport_en)),
+  )
+    .filter(Boolean)
+    .sort();
+
+  // Проверяем, смотрим ли мы "сегодняшний" день
+  const isToday =
+    selectedDate ===
+    new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Moscow" });
 
   // 5. Динамические SEO данные
   const pageTitle = sport
@@ -129,31 +150,86 @@ export default async function Home({ searchParams }: PageProps) {
             </div>
           </div>
 
-          <div className="space-y-6">
-            {filteredEvents.length > 0 ? (
-              filteredEvents.map((event) => (
-                <EventCard key={event.id} event={event} />
-              ))
-            ) : (
-              <div className="py-32 text-center bg-card border-2 border-dashed border-border rounded-[3rem]">
-                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-muted mb-4">
-                  <Search className="text-muted-foreground" size={24} />
-                </div>
-                <h3 className="text-xl font-black uppercase">
-                  Ничего не найдено
-                </h3>
-                <p className="text-muted-foreground text-sm mt-2">
-                  Попробуйте сбросить фильтры или выбрать другую дату
-                </p>
-                <Link
-                  href="/"
-                  className="mt-6 inline-block text-primary font-black uppercase text-xs hover:underline"
-                >
-                  Сбросить всё
-                </Link>
+          {/* ЛОГИКА ОТОБРАЖЕНИЯ СПИСКОВ */}
+          {allFilteredEvents.length > 0 ? (
+            <div className="space-y-12">
+              {/* 1. СЕКЦИЯ LIVE */}
+              {liveEvents.length > 0 && (
+                <section className="space-y-4">
+                  <div className="flex items-center gap-2 px-2">
+                    <span className="relative flex h-2 w-2">
+                      <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                      <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
+                    </span>
+                    <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-red-600">
+                      Сейчас в эфире
+                    </h2>
+                  </div>
+                  <div className="space-y-4">
+                    {liveEvents.map((event) => (
+                      <EventCard key={event.id} event={event} />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* 2. СЕКЦИЯ ПРЕДСТОЯЩИЕ */}
+              {upcomingEvents.length > 0 && (
+                <section className="space-y-4">
+                  <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground px-2">
+                    {liveEvents.length > 0
+                      ? "Далее сегодня"
+                      : "Ближайшие старты"}
+                  </h2>
+                  <div className="space-y-4">
+                    {upcomingEvents.map((event) => (
+                      <EventCard key={event.id} event={event} />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* 3. СЕКЦИЯ ЗАВЕРШЕННЫЕ */}
+              {completedEvents.length > 0 && (
+                <section className="pt-10 border-t border-dashed border-border">
+                  <details className="group">
+                    <summary className="list-none cursor-pointer flex items-center justify-between px-2 text-muted-foreground hover:text-foreground transition-colors">
+                      <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">
+                        Завершенные события ({completedEvents.length})
+                      </h2>
+                      <span className="text-[10px] font-black group-open:rotate-180 transition-transform">
+                        ▼
+                      </span>
+                    </summary>
+                    <div className="mt-6 space-y-4 opacity-60 grayscale-[0.4] hover:opacity-100 hover:grayscale-0 transition-all">
+                      {completedEvents.map((event) => (
+                        <EventCard key={event.id} event={event} />
+                      ))}
+                    </div>
+                  </details>
+                </section>
+              )}
+            </div>
+          ) : (
+            /* ЛОГИКА "НИЧЕГО НЕ НАЙДЕНО" */
+            <div className="py-32 text-center bg-card border-2 border-dashed border-border rounded-[3rem]">
+              <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-muted mb-4 text-muted-foreground">
+                <Search size={24} />
               </div>
-            )}
-          </div>
+              <h3 className="text-xl font-black uppercase tracking-tight">
+                Ничего не найдено
+              </h3>
+              <p className="text-muted-foreground text-sm mt-2 font-medium">
+                Попробуйте сбросить фильтры или выбрать другую дату
+              </p>
+              <Link
+                href="/"
+                className="mt-6 inline-block text-primary font-black uppercase text-xs hover:underline tracking-widest"
+              >
+                Сбросить все фильтры
+              </Link>
+            </div>
+          )}
         </main>
 
         {/* ПРАВАЯ КОЛОНКА: САЙДБАР */}
