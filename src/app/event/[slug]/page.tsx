@@ -35,6 +35,22 @@ export default async function EventPage({ params }: Props) {
 
   if (!event) notFound();
 
+  // 1. Формируем объект разметки
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    name: `${event.sport_ru}: ${event.title_ru}`,
+    startDate: event.start,
+    endDate: event.end,
+    description: event.description_ru,
+    location: {
+      "@type": "Place",
+      name: event.location,
+      address: "Milan, Italy",
+    },
+    image: "https://olympics.viktoor.ru/og-image.jpg",
+  };
+
   // Находим другие события в этот же день для блока рекомендаций
   const eventDate = event.start.split("T")[0];
   const similarEvents = allEvents
@@ -43,6 +59,10 @@ export default async function EventPage({ params }: Props) {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link
         href="/"
         className="inline-flex items-center gap-2 text-xs font-bold text-muted-foreground hover:text-primary mb-10 transition-colors"

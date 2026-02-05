@@ -32,8 +32,15 @@ export default async function Home({ searchParams }: PageProps) {
     new Set(allEvents.map((e) => e.start.split("T")[0])),
   ).sort();
 
-  // 4. Логика фильтрации
-  const selectedDate = date || (dates.length > 0 ? dates[0] : "2026-02-06");
+  const today = new Date().toLocaleDateString("en-CA", {
+    timeZone: "Europe/Moscow",
+  });
+
+  const defaultDate = dates.includes(today)
+    ? today // Если сегодня есть соревнования — показываем сегодня
+    : dates[0]; // Если сегодня нет (до Олимпиады) — показываем первый день
+
+  const selectedDate = date || defaultDate;
 
   const filteredEvents = allEvents.filter((e) => {
     const matchDate = e.start.startsWith(selectedDate);
@@ -215,78 +222,94 @@ export async function generateMetadata({
   const params = await searchParams;
   const { date, sport, gender } = params;
 
-  // 1. Форматируем дату для заголовка
-  // Если дата не выбрана, используем 6 февраля (день открытия)
-  const eventDate = date ? new Date(date) : new Date("2026-02-06");
-  const day = eventDate.getDate();
-  const month = eventDate.toLocaleDateString("ru-RU", { month: "long" });
-  const formattedDate = `${day} ${month}`;
+  // 1. ПОДГОТОВКА ДАННЫХ
+  const baseUrl = "https://olympics.viktoor.ru";
+  const formattedDate = date
+    ? new Date(date).toLocaleDateString("ru-RU", {
+        day: "numeric",
+        month: "long",
+      })
+    : "";
 
-  // 2. Определяем текстовые переменные для SEO
-  const sportName = sport ? `${sport} ` : "";
-  const genderName =
+  const sportTitle = sport ? `${sport}: ` : "";
+  const genderTitle =
     gender === "men" ? "мужчины " : gender === "women" ? "женщины " : "";
 
-  // 3. Формируем Title (до 60-70 символов)
-  // Примеры:
-  // "Биатлон: Расписание Олимпиады 2026 на 8 февраля — Милан-Кортина"
-  // "Олимпиада 2026: Расписание соревнований на 6 февраля — Милан"
-  const title = sport
-    ? `${sport}: ${genderName}расписание Олимпиады 2026 на ${formattedDate}`
-    : `Олимпиада 2026: Расписание соревнований на ${formattedDate} — Милан`;
+  // 2. ФОРМИРУЕМ TITLE И DESCRIPTION
+  let title = "";
+  let description = "";
 
-  // 4. Формируем Description (до 150-160 символов)
-  // Здесь мы вставляем максимум ключевых слов: трансляция, онлайн, медали, результаты
-  const description = `Следите за зимними Олимпийскими играми 2026 в Италии. ${sportName}${genderName}на ${formattedDate}: полное расписание, прямые трансляции Okko, результаты и медальный зачет в реальном времени.`;
+  if (!date && !sport) {
+    title =
+      "Олимпиада 2026: Расписание зимних Олимпийских игр в Милане, трансляции и результаты";
+    description =
+      "Полное расписание зимней Олимпиады 2026 в Милане и Кортине. Следите за медальным зачетом, результатами выступлений атлетов и прямыми трансляциями онлайн на viktoor.ru.";
+  } else if (sport && !date) {
+    title = `${sport}: ${genderTitle}расписание на Олимпиаде 2026, результаты и трансляции`;
+    description = `Смотреть онлайн ${sport.toLowerCase()} на зимних Олимпийских играх 2026. Полный календарь соревнований ${genderTitle}и результаты заездов в Италии.`;
+  } else {
+    title = `${sportTitle}${genderTitle}Расписание Олимпиады 2026 на ${formattedDate} — Календарь игр`;
+    description = `Все события Олимпиады 2026 на ${formattedDate}. Время начала ${sport ? sport.toLowerCase() : "соревнований"}, кто выступает и где смотреть трансляции онлайн.`;
+  }
 
-  // 5. Ключевые слова (Yandex все еще на них смотрит)
+  // 3. ФОРМИРУЕМ KEYWORDS (для Яндекса)
   const keywords = [
-    "Олимпиада 2026",
-    "Милан Кортина 2026",
-    "зимние олимпийские игры",
-    "расписание олимпиады",
-    "смотреть онлайн",
-    "прямая трансляция",
-    "медальный зачет",
+    "олимпиада 2026",
+    "расписание",
+    "милан кортина",
     "результаты",
+    "трансляции",
+    "смотреть онлайн",
     sport,
-    "нейтральные атлеты",
-    "AIN",
+    gender === "men" ? "мужчины" : gender === "women" ? "женщины" : null,
   ].filter(Boolean) as string[];
 
+  // 4. СБОРКА ИТОГОВОГО ОБЪЕКТА
   return {
     title,
     description,
-    keywords,
-    // Ссылки на каноническую страницу (чтобы избежать дублей из-за параметров)
+    keywords: keywords.join(", "),
+
+    // Каноническая ссылка (защита от дублей контента)
     alternates: {
       canonical: sport
-        ? `https://olympics.viktoor.ru/?sport=${encodeURIComponent(sport)}`
-        : "https://olympics.viktoor.ru",
+        ? `${baseUrl}/?sport=${encodeURIComponent(sport)}`
+        : date
+          ? `${baseUrl}/?date=${date}`
+          : baseUrl,
     },
-    // Настройки для соцсетей (OpenGraph)
+
+    // Соцсети (OpenGraph) - как ссылка будет выглядеть в Telegram/VK
     openGraph: {
       title,
       description,
-      url: "https://olympics.viktoor.ru",
-      siteName: "Олимпиада 2026 на viktoor.ru",
+      url: baseUrl,
+      siteName: "Олимпиада 2026 — Milano Cortina",
       locale: "ru_RU",
       type: "website",
       images: [
         {
-          url: "/og-image.png", // Убедитесь, что этот файл лежит в public/
+          url: "/og-image.jpg", // Ссылка на вашу картинку в public
           width: 1200,
           height: 630,
-          alt: `Расписание Олимпиады 2026 — ${formattedDate}`,
+          alt: title,
         },
       ],
     },
-    // Настройки для Twitter (X)
+
+    // Карточка для Twitter (X)
     twitter: {
       card: "summary_large_image",
       title,
       description,
-      images: ["/og-image.png"],
+      images: ["/og-image.jpg"],
+    },
+
+    // Запрет индексации мусорных страниц (например, если параметров слишком много)
+    robots: {
+      index: true,
+      follow: true,
+      nocache: true,
     },
   };
 }
