@@ -55,6 +55,15 @@ export default function WatchPage() {
       url: "https://jupiter.err.ee/otse",
     },
     { country: "Болгария", channel: "БНТ (BNT)", url: "https://bnt.bg/live" },
+    {
+      country: "Израиль и мир",
+      code: "INT",
+      color: "bg-indigo-600",
+      channel: "Трансляции на русском",
+      desc: "Для тех, кто находится за пределами СНГ, лучший способ — официальный плеер Olympics.com или использование VPN с российским IP для доступа к Okko.",
+      url: "https://olympics.com/en/live/",
+      btnText: "Смотреть везде",
+    },
   ];
 
   return (
