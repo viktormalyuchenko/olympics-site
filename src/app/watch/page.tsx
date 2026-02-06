@@ -27,6 +27,15 @@ export default function WatchPage() {
       url: "https://qazsporttv.kz/ru/live",
       btnText: "Смотреть Qazsport",
     },
+    {
+      country: "Беларусь",
+      code: "BY",
+      color: "bg-red-600",
+      channel: "Olympics.com (Официально)",
+      desc: "В связи с отсутствием прав у госТВ, основным легальным способом просмотра является прямой эфир на сайте МОК.",
+      url: "https://olympics.com/en/live/",
+      btnText: "Смотреть на МОК",
+    },
   ];
 
   const balticAndOthers = [
@@ -46,11 +55,6 @@ export default function WatchPage() {
       url: "https://jupiter.err.ee/otse",
     },
     { country: "Болгария", channel: "БНТ (BNT)", url: "https://bnt.bg/live" },
-    {
-      country: "Беларусь",
-      channel: "AIN (Нейтральный статус)",
-      url: "https://olympics.com/en/live/",
-    },
   ];
 
   return (
