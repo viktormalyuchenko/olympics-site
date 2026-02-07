@@ -3,6 +3,8 @@
     "slug": "adeliia-petrosian",
     "name": "Аделия Петросян",
     "sport": "Фигурное катание",
+    "gender": "women",
+    "country": "RU",
     "bio": "Главная фаворитка женского одиночного катания. Первая в мире исполнительница сложнейших четверных прыжков в одной программе.",
     "tags": ["Figure Skating", "Women Single Skating"],
     "image": "/athletes/petrosian.jpg"
@@ -11,6 +13,8 @@
     "slug": "saveliy-korostelev",
     "name": "Савелий Коростелев",
     "sport": "Лыжные гонки",
+    "gender": "men",
+    "country": "RU",
     "bio": "Восходящая звезда лыжных гонок. Специализируется на спринте и дистанционных гонках классическим стилем.",
     "tags": ["Cross-Country Skiing", "Sprint", "Classic"],
     "image": "/athletes/korostelev.jpg"
@@ -19,6 +23,8 @@
     "slug": "petr-gumennik",
     "name": "Петр Гуменник",
     "sport": "Фигурное катание",
+    "gender": "men",
+    "country": "RU",
     "bio": "Один из самых техничных фигуристов-одиночников, сочетающий в программах сложнейшие прыжки и артистизм.",
     "tags": ["Figure Skating", "Men Single Skating"],
     "image": "/athletes/gumennik.jpg"
@@ -27,6 +33,8 @@
     "slug": "eduard-latypov",
     "name": "Эдуард Латыпов",
     "sport": "Биатлон",
+    "gender": "men",
+    "country": "RU",
     "bio": "Лидер мужской биатлонной команды. Многократный призер чемпионатов мира, обладающий мощным финишным рывком.",
     "tags": ["Biathlon", "Men 10km Sprint", "Men 12.5km Pursuit"],
     "image": "/athletes/latypov.jpg"
@@ -35,6 +43,8 @@
     "slug": "elizaveta-pantrina",
     "name": "Елизавета Пантрина",
     "sport": "Лыжные гонки",
+    "gender": "women",
+    "country": "RU",
     "bio": "Универсальная лыжница, способная бороться за медали как в личных гонках, так и в командных спринтах.",
     "tags": ["Cross-Country Skiing", "Women"],
     "image": "/athletes/pantrina.jpg"
@@ -43,6 +53,8 @@
     "slug": "nataliia-shevchenko",
     "name": "Наталия Шевченко",
     "sport": "Биатлон",
+    "gender": "women",
+    "country": "RU",
     "bio": "Бывшая лыжница, ставшая открытием в биатлоне. Показывает феноменальную скорость на лыжне.",
     "tags": ["Biathlon", "Women"],
     "image": "/athletes/shevchenko.jpg"
@@ -51,6 +63,8 @@
     "slug": "viktor-mushtakov",
     "name": "Виктор Муштаков",
     "sport": "Конькобежный спорт",
+    "gender": "men",
+    "country": "RU",
     "bio": "Специалист на коротких дистанциях. Один из самых быстрых спринтеров планеты на дистанции 500 метров.",
     "tags": ["Speed Skating", "Men 500m"],
     "image": "/athletes/mushtakov.jpg"
@@ -59,6 +73,8 @@
     "slug": "semen-elistratov",
     "name": "Семен Елистратов",
     "sport": "Шорт-трек",
+    "gender": "women",
+    "country": "RU",
     "bio": "Опытный ветеран команды, олимпийский чемпион, мастер тактической борьбы на дистанции 1500 метров.",
     "tags": ["Short Track", "Men 1500m"],
     "image": "/athletes/elistratov.jpg"
@@ -67,6 +83,8 @@
     "slug": "anastasia-faleeva",
     "name": "Анастасия Фалеева",
     "sport": "Лыжные гонки",
+    "gender": "women",
+    "country": "RU",
     "bio": "Лучший спринтер женской команды, обладающая взрывной скоростью и отличной техникой.",
     "tags": ["Cross-Country Skiing", "Women Sprint"],
     "image": "/athletes/faleeva.jpg"
@@ -75,6 +93,8 @@
     "slug": "daniil-serokhvostov",
     "name": "Даниил Серохвостов",
     "sport": "Биатлон",
+    "gender": "men",
+    "country": "RU",
     "bio": "Самый быстрый биатлонист нового поколения, известный своей агрессивной тактикой прохождения трассы.",
     "tags": ["Biathlon", "Men"],
     "image": "/athletes/serokhvostov.jpg"
@@ -83,6 +103,8 @@
     "slug": "ekaterina-efremenkova",
     "name": "Екатерина Ефременкова",
     "sport": "Шорт-трек",
+    "gender": "women",
+    "country": "RU",
     "bio": "Лидер женской команды по шорт-треку, многократный призер чемпионатов Европы на стайерских дистанциях.",
     "tags": ["Short Track", "Women"],
     "image": "/athletes/efremenkova.jpg"
@@ -91,6 +113,8 @@
     "slug": "stepan-fedorov",
     "name": "Степан Федоров",
     "sport": "Санный спорт",
+    "gender": "men",
+    "country": "RU",
     "bio": "Один из сильнейших саночников мира, специализирующийся на одноместных санях.",
     "tags": ["Luge", "Men Singles"],
     "image": "/athletes/fedorov.jpg"
@@ -99,8 +123,86 @@
     "slug": "ruslan-murashov",
     "name": "Руслан Мурашов",
     "sport": "Конькобежный спорт",
+    "gender": "men",
+    "country": "RU",
     "bio": "Рекордсмен и чемпион мира, главная надежда в спринте на коньках.",
     "tags": ["Speed Skating", "Men 500m"],
     "image": "/athletes/murashov.jpg"
+  },
+  {
+    "slug": "anton-smolski",
+    "name": "Антон Смольский",
+    "sport": "Биатлон",
+    "country": "BY",
+    "gender": "men",
+    "bio": "Лидер мужской сборной Беларуси, серебряный призер Олимпийских игр. Один из самых стабильных стрелков мирового биатлона.",
+    "tags": [
+      "Biathlon",
+      "Men 10km Sprint",
+      "Men 12.5km Pursuit",
+      "Men 15km Mass Start"
+    ],
+    "sport_en_key": "Biathlon",
+    "image": "/athletes/smolski.jpg"
+  },
+  {
+    "slug": "hanna-sola",
+    "name": "Анна Сола",
+    "sport": "Биатлон",
+    "country": "BY",
+    "gender": "women",
+    "bio": "Одна из самых быстрых биатлонисток мира. Призер чемпионатов мира, известна своим агрессивным стилем прохождения дистанции.",
+    "tags": [
+      "Biathlon",
+      "Women 7.5km Sprint",
+      "Women 10km Pursuit",
+      "Women 12.5km Mass Start"
+    ],
+    "sport_en_key": "Biathlon",
+    "image": "/athletes/sola.jpg"
+  },
+  {
+    "slug": "dzinara-smolskaya",
+    "name": "Динара Смольская",
+    "sport": "Биатлон",
+    "country": "BY",
+    "gender": "women",
+    "bio": "Олимпийская чемпионка в эстафете, обладательница хрустальных глобусов на отдельных дистанциях. Вернулась в топ-форму к Играм 2026.",
+    "tags": ["Biathlon", "Women 7.5km Sprint", "Women 15km Individual"],
+    "sport_en_key": "Biathlon",
+    "image": "/athletes/smolskaya.jpg"
+  },
+  {
+    "slug": "hanna-huskova",
+    "name": "Анна Гуськова",
+    "sport": "Фристайл (акробатика)",
+    "country": "BY",
+    "gender": "women",
+    "bio": "Легенда белорусского фристайла. Олимпийская чемпионка и серебряный призер Игр. Мастер сложнейших прыжков.",
+    "tags": ["Freestyle Skiing", "Women's Aerials", "Фристайл"],
+    "sport_en_key": "Freestyle Skiing",
+    "image": "/athletes/huskova.jpg"
+  },
+  {
+    "slug": "ignat-golovatsiuk",
+    "name": "Игнат Головатюк",
+    "sport": "Конькобежный спорт",
+    "country": "BY",
+    "gender": "men",
+    "bio": "Лучший спринтер Беларуси на коньках. Рекордсмен страны на дистанциях 500 и 1000 метров.",
+    "tags": ["Speed Skating", "Men 500m", "Men 1000m"],
+    "sport_en_key": "Speed Skating",
+    "image": "/athletes/golovatsiuk.jpg"
+  },
+  {
+    "slug": "maryna-zuyeva",
+    "name": "Марина Зуева",
+    "sport": "Конькобежный спорт",
+    "country": "BY",
+    "gender": "women",
+    "bio": "Лидер стайерской команды Беларуси. Специализируется на самых длинных и тяжелых дистанциях — 3000 и 5000 метров.",
+    "tags": ["Speed Skating", "Women 3000m", "Women 5000m"],
+    "sport_en_key": "Speed Skating",
+    "image": "/athletes/zuyeva.jpg"
   }
 ]

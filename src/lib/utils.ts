@@ -22,6 +22,8 @@ export function getFlagEmoji(countryCode: string) {
     FRA: "FR", // Франция
     CHN: "CN", // Китай
     AUT: "AT", // Австрия
+    RU: "RU", // Россия
+    BY: "BY", // Беларусь
     AIN: "UN", // Нейтральные атлеты (покажем нейтральный или белый флаг)
   };
 

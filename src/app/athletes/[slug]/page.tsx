@@ -58,18 +58,9 @@ export default async function AthletePage({ params }: AthletePageProps) {
         event.title_en.toLowerCase().includes(tag.toLowerCase()),
     );
 
-    // 2. Умная проверка по полу
-    // Если атлет женщина, показываем только 'women' и 'mixed'. Если мужчина — 'men' и 'mixed'.
-    const isFemale =
-      athlete.slug.includes("petrosian") ||
-      athlete.slug.includes("pantrina") ||
-      athlete.slug.includes("shevchenko") ||
-      athlete.slug.includes("faleeva") ||
-      athlete.slug.includes("efremenkova");
-    const athleteGender = isFemale ? "women" : "men";
-
+    // 2. Проверяем совпадение по полу (Если указано в данных атлета)
     const matchGender =
-      event.gender === athleteGender || event.gender === "mixed";
+      event.gender === athlete.gender || event.gender === "mixed";
 
     return matchTag && matchGender;
   });
